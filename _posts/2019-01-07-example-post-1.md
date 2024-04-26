@@ -1,6 +1,6 @@
 ---
 title: Example post 1
-author: Huixia Ren
+author: renhuixia
 tags:
   - paper
   - Ca^2+ oscillation
