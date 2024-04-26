@@ -1,6 +1,6 @@
 ---
 title: Globally phase-locked α and β cells
-image: images/phaselock2.jpg
+image: images/phaselock_slim.jpg
 author: renhuixia
 tags: 
 - publication
