@@ -1,19 +1,12 @@
 ---
-name: Jane Smith
+name: Huixia Ren
 image: images/photo.jpg
 role: pi
 aliases:
-  - J. Smith
-  - J Smith
+  - H. Ren
 links:
-  home-page: https://janesmith.com
-  orcid: 0000-0001-8713-9213
+  home-page: https://nevaehren.github.io
+  orcid: 0000-0002-1761-6018
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Faucibus purus in massa tempor nec feugiat nisl pretium fusce.
-Elit at imperdiet dui accumsan.
-Duis tristique sollicitudin nibh sit amet commodo nulla facilisi.
-Vitae elementum curabitur vitae nunc sed velit dignissim sodales.
-Lacinia at quis risus sed vulputate odio ut.
-Magna eget est lorem ipsum.
+Dr. Huixia Ren, from CIMR (chinese institutes for medical research) develops microfludic chips, imaging methods (2D and 3D fluorescence imaging), transgenic animals, and mathematical modeling to offer fresh insights into long-standing inquiries concerning calcium signaling and intercellular communication in mouse and human islets. Her research holds significance for understanding the regulation of insulin and glucagon secretion. 
