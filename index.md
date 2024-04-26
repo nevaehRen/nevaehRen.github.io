@@ -1,8 +1,7 @@
 ---
 ---
 
-# Huixia Ren Lab
-
+# We are interesed in how pancreatic islet cell-to-cell interactions shape oscillatory Ca2+ activity, balancing hormone secretion and maintaining blood glucose homeostasis.
 
 
 {% include section.html %}
