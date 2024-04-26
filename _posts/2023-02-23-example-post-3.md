@@ -1,8 +1,8 @@
 ---
-title: Example post 3
+title: RenLab started at CIMR
 image: images/photo.jpg
-author: john-doe
+author: renhuixia
 tags: biology, medicine
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+On June 01 2024, RenLab started at CIMR (Chinese Institutes for Medical Research, Beijing). Welcome to join us !
