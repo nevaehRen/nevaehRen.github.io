@@ -1,5 +1,5 @@
 
-# nevaehRenDESCRIPTION=An engaging 1-3 sentence description of your lab.'s Website
+# On the oscillation modes and paracrine interaction in pancreatic islets
 
 Visit **[nevaehren.github.io](https://nevaehren.github.io)** 🚀
 
