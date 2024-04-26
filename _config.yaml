@@ -1,8 +1,7 @@
 # site properties and page defaults
 title: Huixia Ren
 subtitle: 
-description: We are interesed in how pancreatic islet cell-to-cell interactions shape oscillatory Ca2+ activity, 
-balancing hormone secretion and maintaining blood glucose homeostasis.
+description: 
 header: images/background_RHX2.jpg
 footer: images/background_RHX2.jpg
 proofer: false
