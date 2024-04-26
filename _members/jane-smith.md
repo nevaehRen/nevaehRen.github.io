@@ -1,6 +1,6 @@
 ---
 name: Huixia Ren
-image: images/photo.jpg
+image: images/Huixia Ren.jpg
 role: pi
 aliases:
   - H. Ren
