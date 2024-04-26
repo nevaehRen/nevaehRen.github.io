@@ -1,7 +1,7 @@
 ---
 ---
 
-# Huixia Ren lab.'s Website
+# Huixia Ren Lab
 
 
 
