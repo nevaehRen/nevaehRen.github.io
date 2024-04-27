@@ -5,8 +5,8 @@ nav:
   tooltip: Published works
 ---
 
-# {% include icon.html icon="fa-solid fa-microscope" %}Research
-Through the integration of experiments and mathematical models, to understand the regulatory patterns of insulin and glucagon secretion in the pancreas and the principles governing blood glucose homeostasis.
+# {% include icon.html icon="fa-solid fa-microscope" %}Publication
+We have developed novel technologies such as microfluidic islet chips and imaging chemical probes/bio-sensors to investigate the regulation of islet Ca2+ activity patterns and hormone secretion by intra-islet paracrine interactions. These studies also involved the development of quantitative data analysis methods and mathematical modeling.
 
 {% include section.html %}
 
