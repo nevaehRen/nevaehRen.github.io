@@ -1,10 +1,9 @@
-- title: Cool Dataset
-  subtitle: a subtitle
+- title: Pancreatic α and β cells are globally phase-locked
+  subtitle: Islet α-cells initiate fast Ca2+ oscillations
   group: featured
   image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  link: https://www.nature.com/articles/s41467-022-31373-6
+  description: By developing a microfluidic islet experimental system and generating transgenic mice with dual-color Ca2+ markers for α and β cells, it was observed islet α and β cells exhibited global phase locking of Ca2+ activity. Further investigation using mathematical modeling explored the quantitative relationship between the coupling strength of α and β cells and the oscillation patterns, revealing that α cells are crucial for generating fast oscillations in the islets. Validation studies showed that islets enriched with α cells exhibited fast oscillations, while islets lacking α cells displayed slow Ca2+ oscillations. This study demonstrated that the heterogeneity of islet Ca2+ oscillation patterns is shaped by intra-islet paracrine heterogeneity.
   tags:
     - resource
 
