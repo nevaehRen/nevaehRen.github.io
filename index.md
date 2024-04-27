@@ -1,8 +1,7 @@
 ---
 ---
 
-# We are interesed in how pancreatic islet cell-to-cell interactions shape oscillatory Ca2+ activity, balancing hormone secretion and maintaining blood glucose homeostasis.
-
+# We employ an interdisciplinary approaches (microfluidic device imaging and mathematical modeling) to understand how islets' structure shapes balanced hormone (insulin, glucagon and somatstatin) secretion and maintain blood glucose homeostasis.
 
 {% include section.html %}
 
