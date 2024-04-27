@@ -32,7 +32,7 @@ We found as the minority cell types, δ and α cells form the core regulatory ne
 
 {% capture text %}
 
-By further developing high-throughput microfluidic chips, we are able to systematic explore the paracrine regulatory network of islet Ca2+ oscillation patterns. Additionally, novel probes for somatostatin and glucagon have been developed to investigate the secretion patterns of α and δ cells.
+By further developing high-throughput microfluidic chips, we are able to systematic explore the paracrine regulatory network of islet Ca2+ oscillation patterns. Additionally, novel probes have been developed to investigate the secretion patterns from α, β and δ cells.
 
 {%
   include button.html
