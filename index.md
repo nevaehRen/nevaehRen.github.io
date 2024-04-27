@@ -1,7 +1,7 @@
 ---
 ---
 
-## We employ an interdisciplinary approaches (microfluidic device imaging and mathematical modeling) to understand how islet cell-to-cell interaction balance the hormone (insulin, glucagon and somatstatin) secretion and maintain blood glucose homeostasis.
+## We study how islet cell-to-cell interaction balance the hormone secretion and maintain blood glucose homeostasis by employing microfluidic experiment and mathematical modeling.
 
 {% include section.html %}
 
