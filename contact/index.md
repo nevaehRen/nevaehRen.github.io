@@ -14,8 +14,8 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 {%
   include button.html
   type="email"
-  text="jane@smith.com"
-  link="jane@smith.com"
+  text="renhuixia@pku.edu.cn"
+  link="renhuixia@pku.edu.cn"
 %}
 {%
   include button.html
