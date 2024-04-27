@@ -6,8 +6,7 @@ nav:
 ---
 
 # {% include icon.html icon="fa-solid fa-microscope" %}Research
-
-We are interesed in how pancreatic islet cell-to-cell interactions shape oscillatory Ca2+ activity, balancing hormone secretion and maintaining blood glucose homeostasis.
+Through the integration of experiments and mathematical models, to understand the regulatory patterns of insulin and glucagon secretion in the pancreas and the principles governing blood glucose homeostasis.
 
 {% include section.html %}
 
