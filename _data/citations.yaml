@@ -115,7 +115,7 @@
   orcid: 0000-0002-1761-6018
   plugin: sources.py
   file: sources.yaml
-  image: https://ibb.co/MNjLf3b
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
 - id: doi:10.1210/clinem/dgac271
   title: A Multiclassifier System to Identify and Subtype Congenital Adrenal Hyperplasia
     Based on Circulating Steroid Hormones
