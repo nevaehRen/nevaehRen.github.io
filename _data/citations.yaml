@@ -115,7 +115,7 @@
   orcid: 0000-0002-1761-6018
   plugin: sources.py
   file: sources.yaml
-  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
+  image: https://i.ibb.co/vkN9rcd/phaselock.png
 - id: doi:10.1210/clinem/dgac271
   title: A Multiclassifier System to Identify and Subtype Congenital Adrenal Hyperplasia
     Based on Circulating Steroid Hormones
@@ -291,32 +291,5 @@
   - open science
   - collaboration
   repo: greenelab/meta-review
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1016/j.csbj.2020.05.017
-  title: Constructing knowledge graphs and their biomedical applications
-  authors:
-  - David N. Nicholson
-  - Casey S. Greene
-  publisher: Computational and Structural Biotechnology Journal
-  date: '2020-01-01'
-  link: https://doi.org/gg7m48
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.7554/eLife.32822
-  title: Sci-Hub provides access to nearly all scholarly literature
-  authors:
-  - Daniel S Himmelstein
-  - Ariel Rodriguez Romero
-  - Jacob G Levernier
-  - Thomas Anthony Munro
-  - Stephen Reid McLaughlin
-  - Bastian Greshake Tzovaras
-  - Casey S Greene
-  publisher: eLife
-  date: '2018-03-01'
-  link: https://doi.org/ckcj
-  image: https://cdn.discordapp.com/attachments/1093084454555230228/1236373907188224111/phaselock.png?ex=6637c66e&is=663674ee&hm=c007eb74279e9133078dfd0adf5618a82f8b95e920388114c265056c71de9242&
   plugin: sources.py
   file: sources.yaml
