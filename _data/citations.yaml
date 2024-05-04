@@ -113,8 +113,22 @@
   date: '2022-06-28'
   link: https://doi.org/gts2jk
   orcid: 0000-0002-1761-6018
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  type: paper
+  description: alpha and beta cell ca activity.
+  image: https://ibb.co/MNjLf3b
+  buttons:
+  - type: source
+    link: https://github.com/your-lab/some-repo
+  - type: website
+    text: My Personal Website
+    link: http://some-website.com/
+  tags:
+  - biology
+  - big data
+  - medicine
+  repo: your-lab/some-repo
 - id: doi:10.1210/clinem/dgac271
   title: A Multiclassifier System to Identify and Subtype Congenital Adrenal Hyperplasia
     Based on Circulating Steroid Hormones
