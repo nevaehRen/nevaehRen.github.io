@@ -47,7 +47,7 @@ By further developing high-throughput microfluidic chips, we are able to systema
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/chip.jpg"
   link="projects"
   title="Our Projects"
   flip=true
