@@ -115,7 +115,7 @@
   orcid: 0000-0002-1761-6018
   plugin: sources.py
   file: sources.yaml
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
+  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
 - id: doi:10.1210/clinem/dgac271
   title: A Multiclassifier System to Identify and Subtype Congenital Adrenal Hyperplasia
     Based on Circulating Steroid Hormones
@@ -317,6 +317,6 @@
   publisher: eLife
   date: '2018-03-01'
   link: https://doi.org/ckcj
-  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
+  image: https://cdn.discordapp.com/attachments/1093084454555230228/1236373907188224111/phaselock.png?ex=6637c66e&is=663674ee&hm=c007eb74279e9133078dfd0adf5618a82f8b95e920388114c265056c71de9242&
   plugin: sources.py
   file: sources.yaml
