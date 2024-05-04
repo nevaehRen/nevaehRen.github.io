@@ -12,7 +12,7 @@ We have developed novel technologies such as microfluidic islet chips and imagin
 
 ## Highlighted
 
-{% include citation.html lookup="Open collaborative writing with Manubot" style="rich" %}
+{% include citation.html lookup="Pancreatic α and β cells are globally phase-locked" style="rich" %}
 
 {% include section.html %}
 
