@@ -218,6 +218,267 @@
   orcid: 0000-0002-4655-3773
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.1038/s42255-023-00962-0
+  title: "Readily releasable \u03B2 cells with tight Ca2+\u2013exocytosis coupling\
+    \ dictate biphasic glucose-stimulated insulin secretion"
+  authors:
+  - Xiaohong Peng
+  - Huixia Ren
+  - Lu Yang
+  - Shiyan Tong
+  - Renjie Zhou
+  - Haochen Long
+  - Yunxiang Wu
+  - Lifen Wang
+  - Yi Wu
+  - Yongdeng Zhang
+  - Jiayu Shen
+  - Junwei Zhang
+  - Guohua Qiu
+  - Jianyong Wang
+  - Chengsheng Han
+  - Yulin Zhang
+  - Mengxuan Zhou
+  - Yiwen Zhao
+  - Tao Xu
+  - Chao Tang
+  - Zhixing Chen
+  - Huisheng Liu
+  - Liangyi Chen
+  publisher: Nature Metabolism
+  date: '2024-01-26'
+  link: https://doi.org/gts2jg
+  orcid: 0000-0002-1761-6018
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1126/sciadv.adi4208
+  title: Bright and sensitive red voltage indicators for imaging action potentials
+    in brain slices and pancreatic islets
+  authors:
+  - Yi Han
+  - Junqi Yang
+  - Yuan Li
+  - Yu Chen
+  - Huixia Ren
+  - Ran Ding
+  - Weiran Qian
+  - Keyuan Ren
+  - Beichen Xie
+  - Mengying Deng
+  - Yinghan Xiao
+  - Jun Chu
+  - Peng Zou
+  publisher: Science Advances
+  date: '2023-11-24'
+  link: https://doi.org/gts2jh
+  orcid: 0000-0002-1761-6018
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1126/science.abq8173
+  title: A tool kit of highly selective and sensitive genetically encoded neuropeptide
+    sensors
+  authors:
+  - Huan Wang
+  - Tongrui Qian
+  - Yulin Zhao
+  - Yizhou Zhuo
+  - Chunling Wu
+  - Takuya Osakada
+  - Peng Chen
+  - Zijun Chen
+  - Huixia Ren
+  - Yuqi Yan
+  - Lan Geng
+  - Shengwei Fu
+  - Long Mei
+  - Guochuan Li
+  - Ling Wu
+  - Yiwen Jiang
+  - Weiran Qian
+  - Li Zhang
+  - Wanling Peng
+  - Min Xu
+  - Ji Hu
+  - Man Jiang
+  - Liangyi Chen
+  - Chao Tang
+  - Yingjie Zhu
+  - Dayu Lin
+  - Jiang-Ning Zhou
+  - Yulong Li
+  publisher: Science
+  date: '2023-11-17'
+  link: https://doi.org/gts2jj
+  orcid: 0000-0002-1761-6018
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/s41467-022-31373-6
+  title: "Pancreatic \u03B1 and \u03B2 cells are globally phase-locked"
+  authors:
+  - Huixia Ren
+  - Yanjun Li
+  - Chengsheng Han
+  - Yi Yu
+  - Bowen Shi
+  - Xiaohong Peng
+  - Tianming Zhang
+  - Shufang Wu
+  - Xiaojing Yang
+  - Sneppen Kim
+  - Liangyi Chen
+  - Chao Tang
+  publisher: Nature Communications
+  date: '2022-06-28'
+  link: https://doi.org/gts2jk
+  orcid: 0000-0002-1761-6018
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1210/clinem/dgac271
+  title: A Multiclassifier System to Identify and Subtype Congenital Adrenal Hyperplasia
+    Based on Circulating Steroid Hormones
+  authors:
+  - Lei Ye
+  - Zhiyun Zhao
+  - Huixia Ren
+  - Wencui Wang
+  - Wenzhong Zhou
+  - Sichang Zheng
+  - Rulai Han
+  - Jie Zhang
+  - Haorong Li
+  - Zhihan Wan
+  - Chao Tang
+  - Shouyue Sun
+  - Weiqing Wang
+  - Guang Ning
+  publisher: The Journal of Clinical Endocrinology &amp; Metabolism
+  date: '2022-05-05'
+  link: https://doi.org/gts2jm
+  orcid: 0000-0002-1761-6018
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/s41591-021-01645-7
+  title: Human pluripotent stem-cell-derived islets ameliorate diabetes in non-human
+    primates
+  authors:
+  - Yuanyuan Du
+  - Zhen Liang
+  - Shusen Wang
+  - Dong Sun
+  - Xiaofeng Wang
+  - Soon Yi Liew
+  - Shuaiyao Lu
+  - Shuangshuang Wu
+  - Yong Jiang
+  - Yaqi Wang
+  - Boya Zhang
+  - Wenhai Yu
+  - Zhi Lu
+  - Yue Pu
+  - Yun Zhang
+  - Haiting Long
+  - Shanshan Xiao
+  - Rui Liang
+  - Zhengyuan Zhang
+  - Jingyang Guan
+  - Jinlin Wang
+  - Huixia Ren
+  - Yanling Wei
+  - Jiaxu Zhao
+  - Shicheng Sun
+  - Tengli Liu
+  - Gaofan Meng
+  - Le Wang
+  - Jiabin Gu
+  - Tao Wang
+  - Yinan Liu
+  - Cheng Li
+  - Chao Tang
+  - Zhongyang Shen
+  - Xiaozhong Peng
+  - Hongkui Deng
+  publisher: Nature Medicine
+  date: '2022-02-01'
+  link: https://doi.org/gr8m5x
+  orcid: 0000-0002-1761-6018
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/s41419-021-04468-z
+  title: Cell-to-cell variability in inducible Caspase9-mediated cell death
+  authors:
+  - Yuan Yuan
+  - Huixia Ren
+  - Yanjun Li
+  - Shanshan Qin
+  - Xiaojing Yang
+  - Chao Tang
+  publisher: Cell Death &amp; Disease
+  date: '2022-01-10'
+  link: https://doi.org/gts2jn
+  orcid: 0000-0002-1761-6018
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:https://doi.org/10.1002/anie.202109510
+  title: "Red\u2010 and Far\u2010Red\u2010Emitting Zinc Probes with Minimal Phototoxicity\
+    \ for Multiplexed Recording of Orchestrated Insulin Secretion"
+  authors:
+  - Junwei Zhang
+  - Xiaohong Peng
+  - Yunxiang Wu
+  - Huixia Ren
+  - Jingfu Sun
+  - Shiyan Tong
+  - Tianyan Liu
+  - Yiwen Zhao
+  - Shusen Wang
+  - Chao Tang
+  - Liangyi Chen
+  - Zhixing Chen
+  publisher: Angewandte Chemie International Edition
+  date: '2021-12-01'
+  link: https://doi.org/gqwrv3
+  orcid: 0000-0002-1761-6018
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2020.04.21.052597
+  title: 'Cellbow: a robust customizable cell segmentation program'
+  authors:
+  - Huixia Ren
+  - Mengdi Zhao
+  - Bo Liu
+  - Ruixiao Yao
+  - Qi liu
+  - Zhipeng Ren
+  - Zirui Wu
+  - Zongmao Gao
+  - Xiaojing Yang
+  - Chao Tang
+  publisher: Cold Spring Harbor Laboratory
+  date: '2020-04-22'
+  link: https://doi.org/gk2cqw
+  orcid: 0000-0002-1761-6018
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/cr.2014.124
+  title: Large-field high-resolution two-photon digital scanned light-sheet microscopy
+  authors:
+  - Weijian Zong
+  - Jia Zhao
+  - Xuanyang Chen
+  - Yuan Lin
+  - Huixia Ren
+  - Yunfeng Zhang
+  - Ming Fan
+  - Zhuan Zhou
+  - Heping Cheng
+  - Yujie Sun
+  - Liangyi Chen
+  publisher: Cell Research
+  date: '2014-09-26'
+  link: https://doi.org/gjz2q6
+  orcid: 0000-0002-1761-6018
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1016/j.csbj.2020.05.017
   title: Constructing knowledge graphs and their biomedical applications
   authors:
