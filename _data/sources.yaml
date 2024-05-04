@@ -23,17 +23,4 @@
   image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
 
 - id: doi:10.1038/s41467-022-31373-6
-  type: paper
-  description: alpha and beta cell ca activity.
   image: https://ibb.co/MNjLf3b
-  buttons:
-    - type: source
-      link: https://github.com/your-lab/some-repo
-    - type: website
-      text: My Personal Website
-      link: http://some-website.com/
-  tags:
-    - biology
-    - big data
-    - medicine
-  repo: your-lab/some-repo
