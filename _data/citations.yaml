@@ -244,8 +244,9 @@
   date: '2020-09-01'
   link: https://doi.org/gsxpff
   orcid: 0000-0002-1761-6018
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: https://i.ibb.co/3vW31zr/cellbow.png
 - id: doi:10.1038/cr.2014.124
   title: Large-field high-resolution two-photon digital scanned light-sheet microscopy
   authors:
@@ -266,22 +267,3 @@
   orcid: 0000-0002-1761-6018
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2020.04.21.052597
-  title: 'Cellbow: a robust customizable cell segmentation program'
-  authors:
-  - Huixia Ren
-  - Mengdi Zhao
-  - Bo Liu
-  - Ruixiao Yao
-  - Qi liu
-  - Zhipeng Ren
-  - Zirui Wu
-  - Zongmao Gao
-  - Xiaojing Yang
-  - Chao Tang
-  publisher: Cold Spring Harbor Laboratory
-  date: '2020-04-22'
-  link: https://doi.org/gk2cqw
-  image: https://i.ibb.co/3vW31zr/cellbow.png
-  plugin: sources.py
-  file: sources.yaml
