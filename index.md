@@ -1,7 +1,8 @@
 ---
 ---
 
-## We study how islet cell-to-cell interaction balance the hormone secretion and maintain blood glucose homeostasis by employing microfluidic experiment and mathematical modeling.
+## We are interested in how cell-to-cell interactions balance the pancreatic islet’s Ca$^2^+$ activity, hormone secretion and contribute to maintaining blood glucose homeostasis.
+
 
 {% include section.html %}
 
