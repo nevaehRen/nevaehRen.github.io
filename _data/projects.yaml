@@ -26,15 +26,6 @@
     - resource
     - publication
 
-- title: Exploration of Somatostatin and Glucagon Secretion Patterns Using Novel Probes
-  subtitle: Endogeneous somatostatin and glucagon secretion
-  image: images/photo.jpg
-  link: https://github.com/
-  description: To investigate the secretion patterns of δ and α cells, we collaborated to develop probes for somatostatin and glucagon. Through adenoviral transfection of primary islets to express the probes, we detected somatostatin release from mouse and human islet delta and alpha cells stimulated by high glucose. .
-  repo: greenelab/lab-website-template
-  tags:
-    - software
-
 - title: Mechanisms of Glucose Sensitivity Regulation in Diabetic Mouse Pancreatic Islets
   subtitle: Disappearance and Recovery of Ca2+ Oscillation
   image: images/photo.jpg
