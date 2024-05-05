@@ -58,7 +58,7 @@ By further developing high-throughput microfluidic chips, we are able to systema
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Our lab members come from diverse backgrounds but share a common interests in quantitative studies of pancreatic islets.
 
 {%
   include button.html
