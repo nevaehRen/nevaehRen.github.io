@@ -1,5 +1,6 @@
 ---
 title: 57th EASD 2021 meeting
+image: images/news-56th-easd.png
 author: renhuixia
 ---
 
