@@ -7,7 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-wrench" %}Projects
 
-We study how pancreatic islet cell-to-cell interactions shape oscillatory Ca$^2^+$ activity, balancing hormone secretion and maintaining blood glucose homeostasis by employing microfluidic experiments and mathematical modeling.
+We study how pancreatic islet cell-to-cell interactions shape oscillatory Ca$^{2+}$ activity, balancing hormone secretion and maintaining blood glucose homeostasis by employing microfluidic experiments and mathematical modeling.
 
 {% include tags.html tags="publication, resource, website" %}
 
