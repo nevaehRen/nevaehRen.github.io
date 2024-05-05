@@ -1,7 +1,7 @@
 ---
 ---
 
-## We are interested in how cell-to-cell interactions balance the pancreatic islet’s Ca$^2^+$ activity, hormone secretion and contribute to maintaining blood glucose homeostasis.
+## We are interested in how cell-to-cell interactions balance the pancreatic islet’s Ca$^2+$ activity, hormone secretion and contribute to maintaining blood glucose homeostasis.
 
 
 {% include section.html %}
