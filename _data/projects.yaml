@@ -26,7 +26,7 @@
     - software
     
 - title: In vivo Islet Ca2+ Imaging
-  subtitle: in vitro + in vivo
+  subtitle:
   image: images/photo.jpg
   link: https://github.com/
   description: We developed in vivo pancreatic islet Ca2+ functional imaging using two-photon microscopy. Together with in situ pancreas islet imaging, we also developed kidney capsule transplantation imaging system. Compared to the native pancreatic islet system, the internal paracrine regulatory network of islets remained intact in the kidney capsule transplant system, while significant changes occurred in vascular and neural regulation outside the islets. Therefore, similarities observed in both systems support the role of intra-islet paracrine regulation. Additionally, in vitro experiments demonstrated that the Ca2+ oscillation period of islets is primarily regulated by intra-islet alpha and delta cell paracrine interactions, we wish to investigate whether in the islet Ca2+ oscillation period is primarily determined by its internal paracrine regulatory network in vivo  repo: greenelab/lab-website-template
@@ -38,7 +38,7 @@
   subtitle: Initiation of Slow Ca2+ Oscillations in Islet δ-cells
   image: images/photo.jpg
   link: https://github.com/
-  description: Despite constituting only 5% of islet cells, δ cells' functions have been underestimated in previous studies. Through pharmacological and optogenetic perturbation experiments, we found that δ cells dynamically regulates the paracrine functional network of α and β cells, altering islet oscillation patterns. Relief of δ cell inhibition on α cells led to a transition from slow to fast oscillations in islets. Optogenetic inhibition of δ cells resulted in a shift from slow to fast Ca2+ activity patterns in islets. By combining microfluidic islet chips with proteomics technology, single-islet Ca2+ functional imaging, insulin secretion detection, and proteomic analysis were achieved. Continuous adjustment of δ-α coupling strength caused the fast oscillating islets to transition to mixed and slow oscillations. Mathematical modeling demonstrated that the fast-mixed-slow oscillation transition is a Hopf bifurcation. In summary, this study found that the minority of δ and α cells form the core regulatory network for the robust rhythmicity of the entire islet. 
+  description: Despite constituting only 5% of islet cells, delta cells' functions have been underestimated in previous studies. Through pharmacological and optogenetic perturbation experiments, we found that δ cells dynamically regulates the paracrine functional network of α and β cells, altering islet oscillation patterns. Relief of δ cell inhibition on α cells led to a transition from slow to fast oscillations in islets. Optogenetic inhibition of δ cells resulted in a shift from slow to fast Ca2+ activity patterns in islets. By combining microfluidic islet chips with proteomics technology, single-islet Ca2+ functional imaging, insulin secretion detection, and proteomic analysis were achieved. Continuous adjustment of δ-α coupling strength caused the fast oscillating islets to transition to mixed and slow oscillations. Mathematical modeling demonstrated that the fast-mixed-slow oscillation transition is a Hopf bifurcation. In summary, this study found that the minority of δ and α cells form the core regulatory network for the robust rhythmicity of the entire islet. 
   repo: greenelab/lab-website-template
   tags:
     - resource
