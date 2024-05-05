@@ -6,7 +6,7 @@ nav:
 ---
 
 # {% include icon.html icon="fa-solid fa-microscope" %}Publication
-We have developed novel technologies such as microfluidic islet chips and imaging chemical probes/bio-sensors to investigate the regulation of islet Ca2+ activity patterns and hormone secretion by intra-islet paracrine interactions. These studies also involved the development of quantitative data analysis methods and mathematical modeling.
+We have developed novel technologies such as microfluidic islet chips and imaging chemical probes/bio-sensors to investigate the regulation of islet Ca$^{2+}$  activity patterns and hormone secretion by intra-islet paracrine interactions. These studies also involved the development of quantitative data analysis methods and mathematical modeling.
 
 {% include section.html %}
 
