@@ -1,37 +1,47 @@
-- title: Pancreatic α and β cells are globally phase-locked
-  subtitle: Islet α-cells initiate fast Ca2+ oscillations
+- title: Cool Dataset
+  subtitle: a subtitle
   group: featured
   image: images/photo.jpg
-  link: https://www.nature.com/articles/s41467-022-31373-6
-  description: By developing a microfluidic islet experimental system and generating transgenic mice with dual-color Ca2+ markers for α and β cells, it was observed islet α and β cells exhibited global phase locking of Ca2+ activity. Further investigation using mathematical modeling explored the quantitative relationship between the coupling strength of α and β cells and the oscillation patterns, revealing that α cells are crucial for generating fast oscillations in the islets. Validation studies showed that islets enriched with α cells exhibited fast oscillations, while islets lacking α cells displayed slow Ca2+ oscillations. This study demonstrated that the heterogeneity of islet Ca2+ oscillation patterns is shaped by intra-islet paracrine heterogeneity.
+  link: https://github.com/
+  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  repo: greenelab/lab-website-template
   tags:
     - resource
 
-- title: Readily releasable β cells with tight Ca2+–exocytosis coupling dictate biphasic glucose-stimulated insulin secretion
-  subtitle: Islet δ-cells diversify the secretory capacity of β-cells
+- title: Cool Package
+  subtitle: a subtitle
   group: featured
   image: images/photo.jpg
-  link: https://www.nature.com/articles/s42255-023-00962-0
-  description: This study introduced a novel extracellular Zn2+ probe to observe insulin vesicle secretion events with high spatiotemporal resolution. It was found that the secretion capacity of islet β cells exhibits heterogeneity - both the cellular secretion capacity and the quantitative distribution of cells follow an exponential distribution and are independent of glucose stimulation. Pharmacological blockade of δ cells disrupted the exponential distribution, leading to a more uniform secretion capacity among cells. In the progression of diabetes, the coupling between β-cell Ca2+ signals and vesicle secretion is impaired, further increasing the heterogeneity of secretion capacity. This study revealed that intra-islet paracrine heterogeneity shapes the secretion heterogeneity of β cells.
+  link: https://github.com/
+  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  repo: greenelab/lab-website-template
   tags:
     - resource
 
-- title: Mechanisms of Glucose Sensitivity Regulation in Diabetic Mouse Pancreatic Islets
-  subtitle: Disappearance and Recovery of Ca2+ Oscillation
+- title: Cool Tutorial
+  subtitle: a subtitle
   image: images/photo.jpg
   link: https://github.com/
-  description: Under 10 mM glucose stimulation, pancreatic islets from healthy mice exhibit regular Ca2+ oscillations, while those of diabetic mice show a cessation of Ca2+ oscillation activity. However, when glucose concentration decreases to 7 mM, pancreatic islets of diabetic mice display regular Ca2+ oscillations. These results indicate an increased glucose sensitivity in diabetic mouse pancreatic islets, with no impairment in Ca2+ oscillation capability. In the future, we wish to explore the molecular mechanisms of paracrine factors that control the glucose sensitivity in pancreatic islets.
+  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  repo: greenelab/lab-website-template
+  tags:
+    - resource
+    - publication
 
-    
-- title: In vivo Islet Ca2+ Imaging
-  subtitle:
+- title: Cool Web App
+  subtitle: a subtitle
   image: images/photo.jpg
   link: https://github.com/
-  description: We developed in vivo pancreatic islet Ca2+ functional imaging using two-photon microscopy. Together with in situ pancreas islet imaging, we also developed kidney capsule transplantation imaging system. Compared to the native pancreatic islet system, the internal paracrine regulatory network of islets remained intact in the kidney capsule transplant system, while significant changes occurred in vascular and neural regulation outside the islets. Therefore, similarities observed in both systems support the role of intra-islet paracrine regulation. Additionally, in vitro experiments demonstrated that the Ca2+ oscillation period of islets is primarily regulated by intra-islet alpha and delta cell paracrine interactions, we wish to investigate whether in the islet Ca2+ oscillation period is primarily determined by its internal paracrine regulatory network in vivo  repo: greenelab/lab-website-template
+  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  repo: greenelab/lab-website-template
+  tags:
+    - software
 
-
-- title: Pancreatic islet delta cell master the Ca2+ oscillation modes and hormone secretion
-  subtitle: Initiation of Slow Ca2+ Oscillations in Islet δ-cells
+- title: Cool Web Server
+  subtitle: a subtitle
   image: images/photo.jpg
   link: https://github.com/
-  description: Despite constituting only 5% of islet cells, delta cells' functions have been underestimated in previous studies. Through pharmacological and optogenetic perturbation experiments, we found that δ cells dynamically regulates the paracrine functional network of α and β cells, altering islet oscillation patterns. Relief of δ cell inhibition on α cells led to a transition from slow to fast oscillations in islets. Optogenetic inhibition of δ cells resulted in a shift from slow to fast Ca2+ activity patterns in islets. By combining microfluidic islet chips with proteomics technology, single-islet Ca2+ functional imaging, insulin secretion detection, and proteomic analysis were achieved. Continuous adjustment of δ-α coupling strength caused the fast oscillating islets to transition to mixed and slow oscillations. Mathematical modeling demonstrated that the fast-mixed-slow oscillation transition is a Hopf bifurcation. In summary, this study found that the minority of δ and α cells form the core regulatory network for the robust rhythmicity of the entire islet. 
+  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  repo: greenelab/lab-website-template
+  tags:
+    - software
