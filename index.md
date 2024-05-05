@@ -24,7 +24,7 @@ We found as the minority cell types, δ and α cells form the core regulatory ne
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/publication.png"
   link="research"
   title="Our Publication"
   text=text
@@ -47,7 +47,7 @@ By further developing high-throughput microfluidic chips, we are able to systema
 
 {%
   include feature.html
-  image="images/chip.jpg"
+  image="images/chip.png"
   link="projects"
   title="Our Projects"
   flip=true
@@ -72,7 +72,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/team.png"
   link="team"
   title="Our Team"
   text=text
