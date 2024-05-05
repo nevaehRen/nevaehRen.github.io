@@ -13,9 +13,8 @@
   image: images/Zn.png
   link: https://www.nature.com/articles/s42255-023-00962-0
   description: This study introduced a novel extracellular Zn2+ probe to observe insulin vesicle secretion events with high spatiotemporal resolution. It was found that the secretion capacity of islet β cells exhibits heterogeneity - both the cellular secretion capacity and the quantitative distribution of cells follow an exponential distribution and are independent of glucose stimulation. Pharmacological blockade of δ cells disrupted the exponential distribution, leading to a more uniform secretion capacity among cells. In the progression of diabetes, the coupling between β-cell Ca2+ signals and vesicle secretion is impaired, further increasing the heterogeneity of secretion capacity. This study revealed that intra-islet paracrine heterogeneity shapes the secretion heterogeneity of β cells.
-  repo: greenelab/lab-website-template
   tags:
-    - resource
+    - Discovery
 
 
 - title: Cool Tutorial
