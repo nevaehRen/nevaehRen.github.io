@@ -7,7 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-feather-pointed" %} News
 
-Here you see our lab activies, including attending an academic conference, presenting their studies and lab outing ...
+Here you see our lab activies, including attending an academic conference, presenting their research and lab outing ...
 
 {% include section.html %}
 
