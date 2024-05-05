@@ -1,7 +1,7 @@
 ---
 ---
 
-## We are interested in how cell-to-cell interactions balance the pancreatic islet’s Ca$^2$$^+$ activity, hormone secretion and contribute to maintaining blood glucose homeostasis.
+## We are interested in how cell-to-cell interactions balance the pancreatic islet’s Ca$^{2+}$ activity, hormone secretion and contribute to maintaining blood glucose homeostasis.
 
 
 {% include section.html %}
@@ -33,7 +33,7 @@ We found as the minority cell types, δ and α cells form the core regulatory ne
 
 {% capture text %}
 
-By further developing high-throughput microfluidic chips, we are able to systematic explore the paracrine regulatory network of islet Ca2+ oscillation patterns. Additionally, novel probes have been developed to investigate the secretion patterns from α, β and δ cells.
+By further developing high-throughput microfluidic chips, we are able to systematic explore the paracrine regulatory network of islet Ca$^{2+}$ oscillation patterns. Additionally, novel probes have been developed to investigate the secretion patterns from α, β and δ cells.
 
 {%
   include button.html
