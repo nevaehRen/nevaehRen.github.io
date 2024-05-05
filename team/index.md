@@ -14,9 +14,9 @@ Our lab members come from diverse backgrounds but share a common interests in qu
 {% include list.html data="members" component="portrait" filters="role: pi" %}
 {% include list.html data="members" component="portrait" filters="role: ^(?!pi$)" %}
 
-{% include section.html background="images/background.jpg" dark=true %}
+{% include section.html background="images/background_nologo.png" dark=true %}
 
-Welcome to join us !
+          Welcome to join us !
 
 {% include section.html %}
 
