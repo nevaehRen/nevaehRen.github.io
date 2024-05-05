@@ -5,7 +5,8 @@
   link: https://www.nature.com/articles/s41467-022-31373-6
   description: By developing a microfluidic islet experimental system and generating transgenic mice with dual-color Ca2+ markers for α and β cells, it was observed islet α and β cells exhibited global phase locking of Ca2+ activity. 
   tags:
-    - Discovery
+    - Ca
+    - in vitro
 
 - title: Readily releasable β cells with tight Ca2+–exocytosis coupling dictate biphasic glucose-stimulated insulin secretion
   subtitle: Islet δ-cells diversify the secretory capacity of β-cells
@@ -14,7 +15,8 @@
   link: https://www.nature.com/articles/s42255-023-00962-0
   description: Using a novel extracellular Zn2+ probe to observe insulin vesicle secretion, it was found that the secretion capacity of islet β cells exhibits heterogeneity. Pharmacological blockade of δ cells disrupted the exponential distribution, leading to a more uniform secretion capacity among cells.
   tags:
-    - Discovery
+    - secretion
+    - in vitro
 
 - title: In vivo islet Ca2+ imaging
   subtitle: pancreas in situ and kidney capsule
@@ -23,8 +25,8 @@
   description: We developed in vivo pancreatic islet Ca2+ functional imaging using two-photon microscopy. Together with in situ pancreas islet imaging, we also developed kidney capsule transplantation imaging system. 
   repo: greenelab/lab-website-template
   tags:
-    - resource
-    - publication
+    - Ca
+    - in vivo
 
 - title: δ-α cell-to-cell interactions modulate pancreatic islet Ca2+ oscillation modes
   subtitle: Maintaining of slow Ca2+ oscillations in islet δ-cells
@@ -33,7 +35,8 @@
   description: Despite constituting only 5% of islet cells, delta cells' functions have been underestimated in previous studies. Continuous adjustment of δ-α coupling strength caused the fast oscillating islets to transition to mixed and slow oscillations. 
   repo: greenelab/lab-website-template
   tags:
-    - software
+    - Ca
+    - in vitro
 
 - title: Mechanisms of glucose sensitivity regulation in diabetic mouse pancreatic islets
   subtitle: Disappearance and recovery of Ca2+ oscillation
@@ -42,4 +45,6 @@
   description: Pancreatic islets from healthy mice exhibit regular Ca2+ oscillations, while those of diabetic mice show a cessation of Ca2+ oscillation activity. We wish to explore the molecular mechanisms that impairs the oscillation in diabetic islets.
   repo: greenelab/lab-website-template
   tags:
-    - software
+    - Ca
+    - in vitro
+    - diabeties
