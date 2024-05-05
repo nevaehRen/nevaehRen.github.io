@@ -1,6 +1,6 @@
 ---
 title: RenLab started at CIMR
-image: images/photo.jpg
+image: images/logo center.jpeg
 author: renhuixia
 tags: biology, medicine
 ---
