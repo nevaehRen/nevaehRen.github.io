@@ -1,7 +1,8 @@
 ---
 ---
 
-## We are interested in how cell-to-cell interactions balance the islet’s Ca$^{2+}$ activity, hormone secretion and contribute to maintaining blood glucose homeostasis.
+## Our lab is interested in how cell-to-cell interactions balance the pancreatic islet’s Ca$^{2+}$ activity and hormone secretion and contribute to maintaining blood glucose homeostasis. We develop and integrate experimental and theoretical methods to gain new perspectives for disease treatment. 
+
 
 
 {% include section.html %}
@@ -10,7 +11,7 @@
 
 {% capture text %}
 
-We found as the minority cell types, δ and α cells form the core regulatory network for the robust rhythmicity of the entire islet.
+We found as the minority cell types, δ and α cells form the core regulatory network for the robust rhythmicity of the entire islet. The design principle of the islet, characterized by a minority of regulators and a majority of followers, may extend to other biological systems with similar hierarchical organization, such as in the heart and brain.
 
 {%
   include button.html
