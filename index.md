@@ -1,9 +1,7 @@
 ---
 ---
 
-## Our lab is interested in how cell-to-cell interactions balance the pancreatic islet’s Ca$^{2+}$ activity and hormone secretion and contribute to maintaining blood glucose homeostasis. We develop and integrate experimental and theoretical methods to gain new perspectives for disease treatment. 
-
-
+## Our lab is interested in how cell-to-cell interactions within the pancreatic islet balance Ca$^{2+}$ activity and hormone secretion, as well as maintain blood glucose homeostasis. Through the integration of experimental, computational and theoretical methods, we aim to gain new insights for disease treatment.
 
 {% include section.html %}
 
