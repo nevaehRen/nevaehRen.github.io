@@ -1,21 +1,22 @@
 - title: Pancreatic α and β cells are globally phase-locked
   subtitle: Islet α-cells initiate fast Ca2+ oscillations
   group: featured
-  image: images/photo.jpg
+  image: images/phaselock.png
   link: https://www.nature.com/articles/s41467-022-31373-6
   description: By developing a microfluidic islet experimental system and generating transgenic mice with dual-color Ca2+ markers for α and β cells, it was observed islet α and β cells exhibited global phase locking of Ca2+ activity. Further investigation using mathematical modeling explored the quantitative relationship between the coupling strength of α and β cells and the oscillation patterns, revealing that α cells are crucial for generating fast oscillations in the islets. Validation studies showed that islets enriched with α cells exhibited fast oscillations, while islets lacking α cells displayed slow Ca2+ oscillations. This study demonstrated that the heterogeneity of islet Ca2+ oscillation patterns is shaped by intra-islet paracrine heterogeneity.
   tags:
     - Discovery
 
-- title: Cool Package
-  subtitle: a subtitle
+  - title: Readily releasable β cells with tight Ca2+–exocytosis coupling dictate biphasic glucose-stimulated insulin secretion
+  subtitle: Islet δ-cells diversify the secretory capacity of β-cells
   group: featured
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  image: images/Zn.png
+  link: https://www.nature.com/articles/s42255-023-00962-0
+  description: This study introduced a novel extracellular Zn2+ probe to observe insulin vesicle secretion events with high spatiotemporal resolution. It was found that the secretion capacity of islet β cells exhibits heterogeneity - both the cellular secretion capacity and the quantitative distribution of cells follow an exponential distribution and are independent of glucose stimulation. Pharmacological blockade of δ cells disrupted the exponential distribution, leading to a more uniform secretion capacity among cells. In the progression of diabetes, the coupling between β-cell Ca2+ signals and vesicle secretion is impaired, further increasing the heterogeneity of secretion capacity. This study revealed that intra-islet paracrine heterogeneity shapes the secretion heterogeneity of β cells.
   repo: greenelab/lab-website-template
   tags:
     - resource
+
 
 - title: Cool Tutorial
   subtitle: a subtitle
