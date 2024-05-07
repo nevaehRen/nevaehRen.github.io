@@ -13,8 +13,8 @@ Address: No.10 Xitoutiao, Youanmenwai, Fengtai District, Beijing
 {%
   include button.html
   type="email"
-  text="renhuixia@pku.edu.cn"
-  link="renhuixia@pku.edu.cn"
+  text="renhuixia@cimrbj.ac.cn"
+  link="renhuixia@cimrbj.ac.cn"
 %}
 {%
   include button.html
