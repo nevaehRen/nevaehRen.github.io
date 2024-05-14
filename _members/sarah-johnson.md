@@ -1,7 +1,7 @@
 ---
 name:
 image: images/photo.jpg
-description: Lead Programmer
+description: Lab Manager
 role: programmer
 links:
   email: sarah.johnson@gmail.com
