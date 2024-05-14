@@ -1,5 +1,5 @@
 ---
-name: Lily Doe
+name:
 image: images/photo.jpg
 role: postdoc
 group: alum
