@@ -1,5 +1,5 @@
 ---
-name: Sarah Johnson
+name:
 image: images/photo.jpg
 description: Lead Programmer
 role: programmer
