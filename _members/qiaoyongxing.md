@@ -1,7 +1,7 @@
 ---
 name: Qiao Yongxing
 image: images/Qiaoyongxing2.jpg
-description: Research assistant
+description: Research Assistant
 role: programmer
 links:
   email: 2379764603@qq.com
