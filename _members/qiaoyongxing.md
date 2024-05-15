@@ -1,6 +1,6 @@
 ---
 name: Qiao Yongxing
-image: images/Qiaoyongxing.jpg
+image: images/Qiaoyongxing2.jpg
 description: Research assistant
 role: programmer
 links:
