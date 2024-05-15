@@ -1,10 +1,10 @@
 ---
-name:
+name: Qiao Yongxing
 image: images/photo.jpg
-description: Lab Manager
+description: Research assistant
 role: programmer
 links:
-  email: sarah.johnson@gmail.com
+  email: 2379764603@qq.com
   twitter: sarahjohnson
 ---
 
