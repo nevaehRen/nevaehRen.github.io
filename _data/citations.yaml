@@ -1,5 +1,33 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1016/j.stem.2024.04.010
+  title: "Remodeling ceramide homeostasis promotes functional maturation of human\
+    \ pluripotent stem cell-derived \u03B2 cells"
+  authors:
+  - Huijuan Hua
+  - Yaqi Wang
+  - Xiaofeng Wang
+  - Shusen Wang
+  - Yunlu Zhou
+  - Yinan Liu
+  - Zhen Liang
+  - Huixia Ren
+  - Sufang Lu
+  - Shuangshuang Wu
+  - Yong Jiang
+  - Yue Pu
+  - Xiang Zheng
+  - Chao Tang
+  - Zhongyang Shen
+  - Cheng Li
+  - Yuanyuan Du
+  - Hongkui Deng
+  publisher: Cell Stem Cell
+  date: '2024-05-01'
+  link: https://doi.org/gts5fw
+  orcid: 0000-0002-1761-6018
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1038/s42255-023-00962-0
   title: "Readily releasable \u03B2 cells with tight Ca2+\u2013exocytosis coupling\
     \ dictate biphasic glucose-stimulated insulin secretion"
