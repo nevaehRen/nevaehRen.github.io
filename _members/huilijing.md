@@ -1,6 +1,6 @@
 ---
 name: Hui Lijing
-image: images/zhangna.jpg
+image: images/huilijing.jpg
 description: Research Assistant
 role: programmer
 links:
