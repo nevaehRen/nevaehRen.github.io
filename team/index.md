@@ -12,6 +12,8 @@ Our lab members come from diverse backgrounds but share a common interests in qu
 {% include section.html %}
 
 {% include list.html data="members" component="portrait" filters="role: pi" %}
+{% include list.html data="members" component="portrait" filters="role: posdoc" %}
+{% include list.html data="members" component="portrait" filters="role: phd" %}
 {% include list.html data="members" component="portrait" filters="role: ^(?!pi$)" %}
 
 {% include section.html background="images/background_nologo.png" dark=true %}
