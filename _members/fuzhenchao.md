@@ -1,6 +1,6 @@
 ---
 name: Zhenchao Fu
-image: images/photo.jpg
+image: images/fuzhenchao.jpg
 role: postdoc
 group: alum
 links:
