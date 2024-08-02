@@ -1,5 +1,29 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1038/s41467-024-50109-2
+  title: PDX1+ cell budding morphogenesis in a stem cell-derived islet spheroid system
+  authors:
+  - Jia Zhao
+  - Shenghui Liang
+  - Haoning Howard Cen
+  - Yanjun Li
+  - Robert K. Baker
+  - Balwinder Ruprai
+  - Guang Gao
+  - Chloe Zhang
+  - Huixia Ren
+  - Chao Tang
+  - Liangyi Chen
+  - Yanmei Liu
+  - Francis C. Lynn
+  - James D. Johnson
+  - Timothy J. Kieffer
+  publisher: Nature Communications
+  date: '2024-07-13'
+  link: https://doi.org/gt4ckw
+  orcid: 0000-0002-1761-6018
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1016/j.stem.2024.04.010
   title: "Remodeling ceramide homeostasis promotes functional maturation of human\
     \ pluripotent stem cell-derived \u03B2 cells"
