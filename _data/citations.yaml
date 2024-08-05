@@ -299,6 +299,45 @@
   plugin: sources.py
   file: sources.yaml
   image: https://i.ibb.co/3vW31zr/cellbow.png
+- id: doi:10.1101/2020.08.16.252304
+  title: "Pancreatic \u03B1 and \u03B2 cells are globally phase-locked"
+  authors:
+  - Huixia Ren
+  - Yanjun Li
+  - Chengsheng Han
+  - Yi Yu
+  - Bowen Shi
+  - Xiaohong Peng
+  - Shufang Wu
+  - Xiaojing Yang
+  - Sneppen Kim
+  - Liangyi Chen
+  - Chao Tang
+  publisher: Cold Spring Harbor Laboratory
+  date: '2020-08-17'
+  link: https://doi.org/gt5z9g
+  orcid: 0000-0002-1761-6018
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2020.04.21.052597
+  title: 'Cellbow: a robust customizable cell segmentation program'
+  authors:
+  - Huixia Ren
+  - Mengdi Zhao
+  - Bo Liu
+  - Ruixiao Yao
+  - Qi liu
+  - Zhipeng Ren
+  - Zirui Wu
+  - Zongmao Gao
+  - Xiaojing Yang
+  - Chao Tang
+  publisher: Cold Spring Harbor Laboratory
+  date: '2020-04-22'
+  link: https://doi.org/gk2cqw
+  orcid: 0000-0002-1761-6018
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1038/cr.2014.124
   title: Large-field high-resolution two-photon digital scanned light-sheet microscopy
   authors:
