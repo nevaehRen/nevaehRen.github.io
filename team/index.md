@@ -24,7 +24,7 @@ Our lab members come from diverse backgrounds but share a common interests in qu
 
 {% capture content %}
 
-{% include figure.html image="images/team.jpg" %}
+{% include figure.html image="images/team2.jpg" %}
 {% include figure.html image="images/team2.png" %}
 {% include figure.html image="images/team3.png" %}
 
