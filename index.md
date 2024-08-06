@@ -72,7 +72,7 @@ Our lab members come from diverse backgrounds but share a common interests in qu
 
 {%
   include feature.html
-  image="images/team.jpg"
+  image="images/team2.jpg"
   link="team"
   title="Our Team"
   text=text
