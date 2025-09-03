@@ -18,9 +18,9 @@
     - secretion
     - in vitro
 
-- title: In vivo islet Ca2+ imaging
+- title: Glycemia Shift Pancreatic Islets Rhythmicity via δ and α Cell in vivo, Impairment in Diabetes
   subtitle: pancreas in situ and kidney capsule
-  image: images/invivo.png
+  image: https://i.ibb.co/rRtvHSkw/vivo.png
   link: https://github.com/
   description: We developed in vivo pancreatic islet Ca2+ functional imaging using two-photon microscopy. Together with in situ pancreas islet imaging, we also developed kidney capsule transplantation imaging system. 
   repo: greenelab/lab-website-template
