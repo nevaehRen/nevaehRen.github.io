@@ -1,5 +1,5 @@
 ---
-title: Digital Life Forum: Trans-Scale Imaging and Integrative Islet Biology
+title: 1st Trans-Scale Imaging and Integrative Islet Biology Symposium
 image: images/islethuairou.jpg
 author: dengyawen
 tags: meeting 
