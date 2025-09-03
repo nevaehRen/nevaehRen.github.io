@@ -30,8 +30,9 @@
 
 - title: δ-α cell-to-cell interactions modulate pancreatic islet Ca2+ oscillation modes
   subtitle: Maintaining of slow Ca2+ oscillations in islet δ-cells
+  group: featured
   image: images/delta.png
-  link: https://github.com/
+  link: https://doi.org/10.1101/2024.08.21.608986
   description: Despite constituting only 5% of islet cells, delta cells' functions have been underestimated in previous studies. Continuous adjustment of δ-α coupling strength caused the fast oscillating islets to transition to mixed and slow oscillations. 
   repo: greenelab/lab-website-template
   tags:
