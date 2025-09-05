@@ -2,7 +2,7 @@
 title: 1st Trans-Scale Imaging and Integrative Islet Biology Symposium
 image: images/islethuairou.jpg
 author: dengyawen
-tags: meeting 
+tags: conference 
 ---
 
 From August 26–28, 2025, we co-organized the “Digital Life Forum: Trans-Scale Imaging and Integrative Islet Biology” in Huairou Science City, Beijing. The forum brought together global experts to discuss innovations in imaging and islet biology, with a focus on diabetes research.
