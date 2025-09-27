@@ -41,6 +41,7 @@
 
 - title: Mechanisms of glucose sensitivity regulation in diabetic mouse pancreatic islets
   subtitle: Disappearance and recovery of Ca2+ oscillation
+  group: featured
   image: images/glucose.png
   link: https://github.com/
   description: Pancreatic islets from healthy mice exhibit regular Ca2+ oscillations, while those of diabetic mice show a cessation of Ca2+ oscillation activity. We wish to explore the molecular mechanisms that impairs the oscillation in diabetic islets.
