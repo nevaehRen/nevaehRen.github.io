@@ -14,7 +14,6 @@ We have developed novel technologies such as microfluidic islet chips and imagin
 
 {% include citation.html lookup="Pancreatic α and β cells are globally phase-locked" style="rich" %}
 {% include citation.html lookup="Readily releasable β cells with tight Ca2+–exocytosis coupling dictate biphasic glucose-stimulated insulin secretion" style="rich" %}
-{% include citation.html lookup="Glycemia Shift Pancreatic Islets Rhythmicity via δ and α Cell in vivo, Impairment in Diabetes" style="rich" %}
 
 {% include section.html %}
 
