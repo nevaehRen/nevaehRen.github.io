@@ -1,5 +1,5 @@
 ---
-title: Lab member attended the Xplorer Symposia: Brain, Body & Behavioral Homeostasis Meeting
+title: Lab member attended the Xplorer Symposia: Brain, Body and Behavioral Homeostasis Meeting
 image: images/2025-12-04-Brain body.png
 author: fuzhenchao
 tags: conference
