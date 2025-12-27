@@ -1,5 +1,35 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1007/s00125-025-06596-z
+  title: "Peptide hormone spexin restores beta cell function and improves glycaemic\
+    \ control in mice via regulation of the sodium\u2013potassium pump"
+  authors:
+  - Yaojing Jiang
+  - Di Wu
+  - Yunzhi Ni
+  - Ying Liu
+  - Huixia Ren
+  - Shan Liu
+  - Chengfang Pan
+  - Jiarong Dai
+  - Quanya Sun
+  - Anran Ma
+  - Ge Qin
+  - Jiali Qian
+  - Lijin Ji
+  - Hangping Zheng
+  - Chao Tang
+  - Yehong Yang
+  - Changlong Hu
+  - Hao Yin
+  - Yiming Li
+  - Rui Liu
+  publisher: Diabetologia
+  date: '2025-11-08'
+  link: https://doi.org/hbg776
+  orcid: 0000-0002-1761-6018
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1101/2025.08.09.669458
   title: "Glycemia Shift Pancreatic Islets Rhythmicity via \u03B4-\u03B1 Cell <i>in\
     \ vivo</i>, Impairment in Diabetes"
