@@ -30,6 +30,7 @@
   orcid: 0000-0002-1761-6018
   plugin: sources.py
   file: sources.yaml
+  image: https://ibb.co/nN49m7Hm
 - id: doi:10.64898/2026.02.07.704527
   title: 'Pancreatic Duct Cells as a Potential Source for Human Islet Neogenesis:
     Insights from Imaging Mass Cytometry'
@@ -46,6 +47,7 @@
   orcid: 0000-0002-1761-6018
   plugin: sources.py
   file: sources.yaml
+  image: https://ibb.co/1YFyyHGz
 - id: doi:10.64898/2026.01.29.701913
   title: A spatial-temporal atlas of human islet pathophysiology identifies a size-dependent
     trajectory from compensation to decompensation
