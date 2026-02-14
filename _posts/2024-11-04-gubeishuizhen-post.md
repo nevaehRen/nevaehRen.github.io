@@ -1,8 +1,8 @@
 ---
-title: Ren Lab and Wu Zhaofa Lab Enjoy Autumn Outing in Gubei Water Town
-image: images/gubeishuizhen.jpg
-author: renhuixia
+title: Ren Lab and Wu Zhaofa Lab Enjoy Autumn Outing in Qinglong Gorge
+image: images/qinglong.png
+author: lidan
 tags: lab
 ---
 
-Beijing, Nov. 4, 2024 – Lab members from Ren Lab and the Wu Zhaofa Lab at the Institute of Genetics, Chinese Academy of Sciences, embarked on a joint autumn trip to Gubei Water Town. The group explored the Simatai Great Wall, experienced traditional folk activities such as tie‑dyeing, and enjoyed the picturesque autumn scenery. The outing provided a relaxed setting for scientists from both labs to interact, share ideas, and build new friendships. The event strengthened interdisciplinary connections and fostered a spirit of collaboration beyond the laboratory.
+Beijing, Nov. 7-8, 2025-To strengthen inter-lab collaboration and take a break from research, members of Ren Lab and Wu Zhaofa Lab at the Institute of Genetics and Developmental Biology, Chinese Academy of Sciences, went on a two-day autumn trip to Qinglong Gorge in Huairou District, Beijing. The group walked along canyon trails, admired the autumn scenery with glistening water and colorful foliage, explored the nearby Great Wall, and tried the thrilling bungee jumping. On the first night, they enjoyed a hot pot feast and a cozy karaoke session together. This trip helped researchers unwind, deepen mutual understanding, and lay a solid foundation for future interdisciplinary cooperation.
