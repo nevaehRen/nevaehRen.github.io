@@ -1,5 +1,5 @@
 ---
-title: Spring Festival of the Year of the Horse
+title: Happy New Year - Spring Festival of the Year of the Horse
 image: images/2026newyear.png
 author: lidan
 tags: lab
