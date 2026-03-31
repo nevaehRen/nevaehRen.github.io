@@ -12,6 +12,8 @@ We have developed novel technologies such as microfluidic islet chips and imagin
 
 ## Highlighted
 
+{% include citation.html lookup="Glycemia shifts pancreatic islet rhythmicity by influencing interactions between δ cells and α cells" style="rich" %}
+{% include citation.html lookup="δ-α cell-to-cell interactions modulate pancreatic islet Ca2+ oscillation modes" style="rich" %}
 {% include citation.html lookup="Pancreatic α and β cells are globally phase-locked" style="rich" %}
 {% include citation.html lookup="Readily releasable β cells with tight Ca2+–exocytosis coupling dictate biphasic glucose-stimulated insulin secretion" style="rich" %}
 
