@@ -1,6 +1,6 @@
 ---
 title: Cell Systems | Glycemia shifts pancreatic islet rhythmicity by influencing interactions between δ cells and α cells
-image: images/invvivonews.png
+image: images/sss.png
 author: dengyawen
 tags: publication
 ---
@@ -49,5 +49,7 @@ This study reveals, at the in vivo level, a new mechanism by which blood glucose
 This work was supported by the Capital Medical Science Innovation Center, the National Natural Science Foundation of China, the Hangzhou Institute of Medicine of the Chinese Academy of Sciences, and multiple other projects and platforms.
 
 Doctoral student Yawen Deng, postdoctoral researcher Zhenchao Fu, and doctoral student Xuejiao Wang from the Capital Medical Science Innovation Center are co-first authors of the paper. Huixia Ren from the Capital Medical Science Innovation Center, Yuanyuan Du from the Hangzhou Institute of Medicine of the Chinese Academy of Sciences, and Xiaohong Peng from Shenzhen University are co-corresponding authors.
+
+Watch the video introducion at https://www.youtube.com/watch?v=ls4Cbtv8k90
 
 
