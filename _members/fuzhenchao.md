@@ -7,4 +7,4 @@ links:
   github: john-doe
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Blood glucose homeostasis relies on the well-coordinated rhythmic activity of millions of islets throughout the pancreas. I investigated the correlation between paracrine interactions within pancreatic islets and blood glucose fluctuations through in vivo islet calcium signal imaging, as well as the in vivo regulatory mechanisms underlying islet population sensing.
