@@ -2,7 +2,7 @@
 name: Chunmei Zhou
 image: images/zhouchunmei.jpg
 role: programmer
-group: alum
+group: programmer
 links:
   github: john-doe
 ---
