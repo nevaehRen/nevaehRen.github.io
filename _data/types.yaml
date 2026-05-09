@@ -6,6 +6,10 @@ pi:
   icon: fa-solid fa-microscope
   description: Principal Investigator
 
+programmer:
+  icon: fa-solid fa-code
+  description: Research Associate
+
 postdoc:
   icon: fa-solid fa-glasses
   description: Postdoctoral Researcher
@@ -17,10 +21,6 @@ phd:
 undergrad:
   icon: fa-solid fa-user-graduate
   description: Undergraduate Student
-
-programmer:
-  icon: fa-solid fa-code
-  description: Research Associate
 
 mascot:
   icon: fa-solid fa-dog
