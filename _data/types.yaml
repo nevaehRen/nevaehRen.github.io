@@ -7,7 +7,7 @@ pi:
   description: Principal Investigator
 
 programmer:
-  icon: fa-solid fa-code
+  icon: fa-solid fa-graduate
   description: Research Associate
 
 postdoc:
