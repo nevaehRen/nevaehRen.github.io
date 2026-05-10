@@ -1,7 +1,6 @@
 ---
 name: Shi Zeng
 image: images/zengshi.jpg
-description: Visiting Student
 role: vs
 group: alum
 links:
