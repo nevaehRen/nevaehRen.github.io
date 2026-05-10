@@ -9,10 +9,6 @@ pi:
 ra:
   icon: fa-solid fa-graduate
   description: Research Associate
-
-programmer:
-  icon: fa-solid fa-graduate
-  description: Programmer
   
 postdoc:
   icon: fa-solid fa-glasses
@@ -29,6 +25,10 @@ undergrad:
 mascot:
   icon: fa-solid fa-dog
   description: Mascot
+
+programmer:
+  icon: fa-solid fa-graduate
+  description: Programmer
 
 # general
 
