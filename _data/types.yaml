@@ -26,10 +26,18 @@ mascot:
   icon: fa-solid fa-dog
   description: Mascot
 
+raa:
+  icon: fa-solid fa-graduate
+  description: Research Assistant
+  
+vs:
+  icon: fa-solid fa-graduate
+  description: Visiting Student
+
 programmer:
   icon: fa-solid fa-graduate
   description: Programmer
-
+  
 # general
 
 link:
