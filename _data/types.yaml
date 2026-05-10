@@ -10,6 +10,10 @@ ra:
   icon: fa-solid fa-graduate
   description: Research Associate
 
+programmer:
+  icon: fa-solid fa-graduate
+  description: Programmer
+  
 postdoc:
   icon: fa-solid fa-glasses
   description: Postdoctoral Researcher
