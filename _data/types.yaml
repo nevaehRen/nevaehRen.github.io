@@ -6,7 +6,7 @@ pi:
   icon: fa-solid fa-microscope
   description: Principal Investigator
 
-programmer:
+ra:
   icon: fa-solid fa-graduate
   description: Research Associate
 
