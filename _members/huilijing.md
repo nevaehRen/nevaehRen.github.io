@@ -1,7 +1,7 @@
 ---
 name: Hui Lijing
 image: images/huilijing.jpg
-role: rab
+role: rb
 group: alum
 links:
   github: john-doe
