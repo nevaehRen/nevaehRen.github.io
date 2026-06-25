@@ -1,3 +1,25 @@
+<script>
+// 拦截拼接字符串生成polyfill.io脚本
+const oldWrite = document.write;
+document.write = function(str){
+  if(str.includes('polyfill.io')) return;
+  return oldWrite.call(this, str);
+}
+// 拦截动态创建script标签
+const createScript = document.createElement;
+document.createElement = function(tag){
+  const el = createScript.call(document, tag);
+  if(tag === 'script'){
+    Object.defineProperty(el, 'src', {
+      set(val){
+        if(val.includes('polyfill.io')) return;
+        el.setAttribute('src', val);
+      }
+    })
+  }
+  return el;
+}
+</script>
 <!DOCTYPE html>
 <html lang="en" data-dark="false">
   {% include head.html %}
