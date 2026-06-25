@@ -1,7 +1,32 @@
 <!DOCTYPE html>
-<html lang="en" data-dark="false">
-  <head>
+<html>
+<head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<script>
+// 拦截拼接字符串生成polyfill.io脚本
+const oldWrite = document.write;
+document.write = function(str){
+  if(str.includes('polyfill.io')) return;
+  return oldWrite.call(this, str);
+}
+// 拦截动态创建script标签
+const createScript = document.createElement;
+document.createElement = function(tag){
+  const el = createScript.call(document, tag);
+  if(tag === 'script'){
+    Object.defineProperty(el, 'src', {
+      set(val){
+        if(val.includes('polyfill.io')) return;
+        el.setAttribute('src', val);
+      }
+    })
+  }
+  return el;
+}
+</script>
+
+
+  
   <!--
   put your analytics (e.g. Google Analytics) tracking code here
 -->
@@ -306,9 +331,10 @@
   <script src="/_scripts/tooltip.js"></script>
 
 
-</head>
 
-  <body>
+
+  </head>
+<body>
     
 
 
@@ -589,5 +615,6 @@
   <input type="checkbox" class="dark-toggle" data-tooltip="Dark mode" aria-label="toggle dark mode" oninput="onDarkToggleChange(event)">
 </footer>
 
-  </body>
+  
+</body>
 </html>
