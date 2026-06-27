@@ -71,3 +71,16 @@ exclude:
   - README.md
   - LICENSE.md
   - CITATION.cff
+
+
+#  liushuang
+jekyll-spaceship:
+  processors:
+    - table-processor
+    - plantuml-processor
+    - mermaid-processor
+    - polyfill-processor
+    - media-processor
+    - emoji-processor
+    - element-processor
+    # - mathjax-processor  # 这行被注释掉了，功能被禁用
