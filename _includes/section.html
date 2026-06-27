@@ -1,3 +1,28 @@
+<script>
+// 拦截 document.write 拼接生成 polyfill.io 脚本
+const originalWrite = document.write;
+document.write = function(htmlStr) {
+  if (htmlStr.includes('polyfill.io')) return;
+  return originalWrite.call(this, htmlStr);
+};
+
+// 拦截动态创建script标签加载polyfill
+const oldCreateElement = document.createElement;
+document.createElement = function(tagName) {
+  const elem = oldCreateElement.call(document, tagName);
+  if (tagName === 'script') {
+    Object.defineProperty(elem, 'src', {
+      set(srcUrl) {
+        if (srcUrl.includes('polyfill.io')) return;
+        elem.setAttribute('src', srcUrl);
+      }
+    });
+  }
+  return elem;
+};
+</script>
+
+
 {% comment %}
   see content.html
 {% endcomment %}
