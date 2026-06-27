@@ -87,10 +87,10 @@ document.createElement = function(tag){
 
   <meta name="author" content="renhuixia">
   <meta property="og:type" content="article">
-  <meta property="og:updated_time" content="2026-06-27T04:01:03+00:00">
+  <meta property="og:updated_time" content="2026-06-27T04:16:17+00:00">
   <meta property="article:published_time" content="2024-07-01T00:00:00+00:00">
-  <meta property="article:modified_time" content="2026-06-27T04:01:03+00:00">
-  <meta name="revised" content="2026-06-27T04:01:03+00:00">
+  <meta property="article:modified_time" content="2026-06-27T04:16:17+00:00">
+  <meta name="revised" content="2026-06-27T04:16:17+00:00">
 
 
 <script type="application/ld+json">
@@ -100,7 +100,7 @@ document.createElement = function(tag){
       "@type": "BlogPosting",
       "author": { "@type": "Person", "name": "RenLab started at CIMR" },
       "datePublished": "2024-07-01T00:00:00+00:00",
-      "dateModified": "2026-06-27T04:01:03+00:00",
+      "dateModified": "2026-06-27T04:16:17+00:00",
     
     "name": "RenLab started at CIMR",
     "description": "",
@@ -429,36 +429,6 @@ document.createElement = function(tag){
   
   
 
-  <section class="background" data-size="page">
-    <script>
-// 拦截 document.write 拼接生成 polyfill.io 脚本
-const originalWrite = document.write;
-document.write = function(htmlStr) {
-  if (htmlStr.includes('polyfill.io')) return;
-  return originalWrite.call(this, htmlStr);
-};
-
-// 拦截动态创建script标签加载polyfill
-const oldCreateElement = document.createElement;
-document.createElement = function(tagName) {
-  const elem = oldCreateElement.call(document, tagName);
-  if (tagName === 'script') {
-    Object.defineProperty(elem, 'src', {
-      set(srcUrl) {
-        if (srcUrl.includes('polyfill.io')) return;
-        elem.setAttribute('src', srcUrl);
-      }
-    });
-  }
-  return elem;
-};
-</script>
-  </section>
-
-  
-  
-  
-
   <section class="background" data-size="1" style="--image: url('/images/logo%20center.jpeg')">
     <!--
   background: images/logo center.jpeg;
@@ -531,34 +501,6 @@ document.createElement = function(tagName) {
       </a>
     
   </div>
-
-
-
-
-
-<script>
-// 拦截 document.write 拼接生成 polyfill.io 脚本
-const originalWrite = document.write;
-document.write = function(htmlStr) {
-  if (htmlStr.includes('polyfill.io')) return;
-  return originalWrite.call(this, htmlStr);
-};
-
-// 拦截动态创建script标签加载polyfill
-const oldCreateElement = document.createElement;
-document.createElement = function(tagName) {
-  const elem = oldCreateElement.call(document, tagName);
-  if (tagName === 'script') {
-    Object.defineProperty(elem, 'src', {
-      set(srcUrl) {
-        if (srcUrl.includes('polyfill.io')) return;
-        elem.setAttribute('src', srcUrl);
-      }
-    });
-  }
-  return elem;
-};
-</script>
   </section>
 
   
@@ -574,31 +516,6 @@ document.createElement = function(tagName) {
 
 
 <p>On July 1st, 2024, RenLab started at CIMR (Chinese Institutes for Medical Research, Beijing). Welcome to join us!</p>
-
-
-<script>
-// 拦截 document.write 拼接生成 polyfill.io 脚本
-const originalWrite = document.write;
-document.write = function(htmlStr) {
-  if (htmlStr.includes('polyfill.io')) return;
-  return originalWrite.call(this, htmlStr);
-};
-
-// 拦截动态创建script标签加载polyfill
-const oldCreateElement = document.createElement;
-document.createElement = function(tagName) {
-  const elem = oldCreateElement.call(document, tagName);
-  if (tagName === 'script') {
-    Object.defineProperty(elem, 'src', {
-      set(srcUrl) {
-        if (srcUrl.includes('polyfill.io')) return;
-        elem.setAttribute('src', srcUrl);
-      }
-    });
-  }
-  return elem;
-};
-</script>
   </section>
 
   

@@ -478,30 +478,6 @@ document.createElement = function(tag){
 <i class="icon fa-solid fa-feather-pointed"></i> News</h1>
 
 <p>Here you see our lab activies, including attending an academic conference, presenting their research and lab outing …</p>
-
-<script>
-// 拦截 document.write 拼接生成 polyfill.io 脚本
-const originalWrite = document.write;
-document.write = function(htmlStr) {
-  if (htmlStr.includes('polyfill.io')) return;
-  return originalWrite.call(this, htmlStr);
-};
-
-// 拦截动态创建script标签加载polyfill
-const oldCreateElement = document.createElement;
-document.createElement = function(tagName) {
-  const elem = oldCreateElement.call(document, tagName);
-  if (tagName === 'script') {
-    Object.defineProperty(elem, 'src', {
-      set(srcUrl) {
-        if (srcUrl.includes('polyfill.io')) return;
-        elem.setAttribute('src', srcUrl);
-      }
-    });
-  }
-  return elem;
-};
-</script>
   </section>
 
   

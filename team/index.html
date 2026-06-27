@@ -478,30 +478,6 @@ document.createElement = function(tag){
 <i class="icon fa-solid fa-users"></i>Team</h1>
 
 <p>Our lab members come from diverse backgrounds but share a common interests in quantitative studies of pancreatic islets. We believe that interdisciplinary approaches at systems level will gain new insights on pancreatic physiology research.</p>
-
-<script>
-// 拦截 document.write 拼接生成 polyfill.io 脚本
-const originalWrite = document.write;
-document.write = function(htmlStr) {
-  if (htmlStr.includes('polyfill.io')) return;
-  return originalWrite.call(this, htmlStr);
-};
-
-// 拦截动态创建script标签加载polyfill
-const oldCreateElement = document.createElement;
-document.createElement = function(tagName) {
-  const elem = oldCreateElement.call(document, tagName);
-  if (tagName === 'script') {
-    Object.defineProperty(elem, 'src', {
-      set(srcUrl) {
-        if (srcUrl.includes('polyfill.io')) return;
-        elem.setAttribute('src', srcUrl);
-      }
-    });
-  }
-  return elem;
-};
-</script>
   </section>
 
   
@@ -778,30 +754,6 @@ document.createElement = function(tagName) {
     
   </a>
 </div>
-
-<script>
-// 拦截 document.write 拼接生成 polyfill.io 脚本
-const originalWrite = document.write;
-document.write = function(htmlStr) {
-  if (htmlStr.includes('polyfill.io')) return;
-  return originalWrite.call(this, htmlStr);
-};
-
-// 拦截动态创建script标签加载polyfill
-const oldCreateElement = document.createElement;
-document.createElement = function(tagName) {
-  const elem = oldCreateElement.call(document, tagName);
-  if (tagName === 'script') {
-    Object.defineProperty(elem, 'src', {
-      set(srcUrl) {
-        if (srcUrl.includes('polyfill.io')) return;
-        elem.setAttribute('src', srcUrl);
-      }
-    });
-  }
-  return elem;
-};
-</script>
   </section>
 
   
@@ -817,30 +769,6 @@ document.createElement = function(tagName) {
 
 <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>      Welcome to join us !
 </code></pre></div></div>
-
-<script>
-// 拦截 document.write 拼接生成 polyfill.io 脚本
-const originalWrite = document.write;
-document.write = function(htmlStr) {
-  if (htmlStr.includes('polyfill.io')) return;
-  return originalWrite.call(this, htmlStr);
-};
-
-// 拦截动态创建script标签加载polyfill
-const oldCreateElement = document.createElement;
-document.createElement = function(tagName) {
-  const elem = oldCreateElement.call(document, tagName);
-  if (tagName === 'script') {
-    Object.defineProperty(elem, 'src', {
-      set(srcUrl) {
-        if (srcUrl.includes('polyfill.io')) return;
-        elem.setAttribute('src', srcUrl);
-      }
-    });
-  }
-  return elem;
-};
-</script>
   </section>
 
   

@@ -87,10 +87,10 @@ document.createElement = function(tag){
 
   <meta name="author" content="wangxuejiao">
   <meta property="og:type" content="article">
-  <meta property="og:updated_time" content="2026-06-27T04:01:03+00:00">
+  <meta property="og:updated_time" content="2026-06-27T04:16:17+00:00">
   <meta property="article:published_time" content="2025-08-22T00:00:00+00:00">
-  <meta property="article:modified_time" content="2026-06-27T04:01:03+00:00">
-  <meta name="revised" content="2026-06-27T04:01:03+00:00">
+  <meta property="article:modified_time" content="2026-06-27T04:16:17+00:00">
+  <meta name="revised" content="2026-06-27T04:16:17+00:00">
 
 
 <script type="application/ld+json">
@@ -100,7 +100,7 @@ document.createElement = function(tag){
       "@type": "BlogPosting",
       "author": { "@type": "Person", "name": "Metabolic Biology - Cell Press Joint Conference" },
       "datePublished": "2025-08-22T00:00:00+00:00",
-      "dateModified": "2026-06-27T04:01:03+00:00",
+      "dateModified": "2026-06-27T04:16:17+00:00",
     
     "name": "Metabolic Biology - Cell Press Joint Conference",
     "description": "",
@@ -429,36 +429,6 @@ document.createElement = function(tag){
   
   
 
-  <section class="background" data-size="page">
-    <script>
-// 拦截 document.write 拼接生成 polyfill.io 脚本
-const originalWrite = document.write;
-document.write = function(htmlStr) {
-  if (htmlStr.includes('polyfill.io')) return;
-  return originalWrite.call(this, htmlStr);
-};
-
-// 拦截动态创建script标签加载polyfill
-const oldCreateElement = document.createElement;
-document.createElement = function(tagName) {
-  const elem = oldCreateElement.call(document, tagName);
-  if (tagName === 'script') {
-    Object.defineProperty(elem, 'src', {
-      set(srcUrl) {
-        if (srcUrl.includes('polyfill.io')) return;
-        elem.setAttribute('src', srcUrl);
-      }
-    });
-  }
-  return elem;
-};
-</script>
-  </section>
-
-  
-  
-  
-
   <section class="background" data-size="1" style="--image: url('/images/wenzhou.jpg')">
     <!--
   background: images/wenzhou.jpg;
@@ -531,34 +501,6 @@ document.createElement = function(tagName) {
       </a>
     
   </div>
-
-
-
-
-
-<script>
-// 拦截 document.write 拼接生成 polyfill.io 脚本
-const originalWrite = document.write;
-document.write = function(htmlStr) {
-  if (htmlStr.includes('polyfill.io')) return;
-  return originalWrite.call(this, htmlStr);
-};
-
-// 拦截动态创建script标签加载polyfill
-const oldCreateElement = document.createElement;
-document.createElement = function(tagName) {
-  const elem = oldCreateElement.call(document, tagName);
-  if (tagName === 'script') {
-    Object.defineProperty(elem, 'src', {
-      set(srcUrl) {
-        if (srcUrl.includes('polyfill.io')) return;
-        elem.setAttribute('src', srcUrl);
-      }
-    });
-  }
-  return elem;
-};
-</script>
   </section>
 
   
@@ -574,31 +516,6 @@ document.createElement = function(tagName) {
 
 
 <p>On Aug. 22th, 2025, “Metabolic Biology - Cell Press Joint Conference &amp; The 8th Academic Symposium of the Metabolic Biology Branch of the Chinese Biophysical Society” was successfully held in Wenzhou, Zhejiang from August 21st to 25th, 2025. Dr. Huixia Ren was invited to attend and gave a sharing report titled “Hyperglycemia to euglycemia shift pancreatic islets rhythmicity in vivo, impairment in diabetes”, while her students Sen Yang and Xuejiao Wang also attended the conference. They all engaged in academic exchanges with domestic and foreign peers to enhance the laboratory’s research influence in the field of metabolic biology.</p>
-
-
-<script>
-// 拦截 document.write 拼接生成 polyfill.io 脚本
-const originalWrite = document.write;
-document.write = function(htmlStr) {
-  if (htmlStr.includes('polyfill.io')) return;
-  return originalWrite.call(this, htmlStr);
-};
-
-// 拦截动态创建script标签加载polyfill
-const oldCreateElement = document.createElement;
-document.createElement = function(tagName) {
-  const elem = oldCreateElement.call(document, tagName);
-  if (tagName === 'script') {
-    Object.defineProperty(elem, 'src', {
-      set(srcUrl) {
-        if (srcUrl.includes('polyfill.io')) return;
-        elem.setAttribute('src', srcUrl);
-      }
-    });
-  }
-  return elem;
-};
-</script>
   </section>
 
   

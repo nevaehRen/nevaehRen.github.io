@@ -87,10 +87,10 @@ document.createElement = function(tag){
 
   <meta name="author" content="renhuixia">
   <meta property="og:type" content="article">
-  <meta property="og:updated_time" content="2026-06-27T04:01:03+00:00">
+  <meta property="og:updated_time" content="2026-06-27T04:16:17+00:00">
   <meta property="article:published_time" content="2018-04-20T00:00:00+00:00">
-  <meta property="article:modified_time" content="2026-06-27T04:01:03+00:00">
-  <meta name="revised" content="2026-06-27T04:01:03+00:00">
+  <meta property="article:modified_time" content="2026-06-27T04:16:17+00:00">
+  <meta name="revised" content="2026-06-27T04:16:17+00:00">
 
 
 <script type="application/ld+json">
@@ -100,7 +100,7 @@ document.createElement = function(tag){
       "@type": "BlogPosting",
       "author": { "@type": "Person", "name": "Prof. Erik Gylfe and Prof. Anders Tengholm Visiting Tang Lab" },
       "datePublished": "2018-04-20T00:00:00+00:00",
-      "dateModified": "2026-06-27T04:01:03+00:00",
+      "dateModified": "2026-06-27T04:16:17+00:00",
     
     "name": "Prof. Erik Gylfe and Prof. Anders Tengholm Visiting Tang Lab",
     "description": "",
@@ -429,36 +429,6 @@ document.createElement = function(tag){
   
   
 
-  <section class="background" data-size="page">
-    <script>
-// 拦截 document.write 拼接生成 polyfill.io 脚本
-const originalWrite = document.write;
-document.write = function(htmlStr) {
-  if (htmlStr.includes('polyfill.io')) return;
-  return originalWrite.call(this, htmlStr);
-};
-
-// 拦截动态创建script标签加载polyfill
-const oldCreateElement = document.createElement;
-document.createElement = function(tagName) {
-  const elem = oldCreateElement.call(document, tagName);
-  if (tagName === 'script') {
-    Object.defineProperty(elem, 'src', {
-      set(srcUrl) {
-        if (srcUrl.includes('polyfill.io')) return;
-        elem.setAttribute('src', srcUrl);
-      }
-    });
-  }
-  return elem;
-};
-</script>
-  </section>
-
-  
-  
-  
-
   <section class="background" data-size="1" style="--image: url('/images/Eric.png')">
     <!--
   background: images/Eric.png;
@@ -531,34 +501,6 @@ document.createElement = function(tagName) {
       </a>
     
   </div>
-
-
-
-
-
-<script>
-// 拦截 document.write 拼接生成 polyfill.io 脚本
-const originalWrite = document.write;
-document.write = function(htmlStr) {
-  if (htmlStr.includes('polyfill.io')) return;
-  return originalWrite.call(this, htmlStr);
-};
-
-// 拦截动态创建script标签加载polyfill
-const oldCreateElement = document.createElement;
-document.createElement = function(tagName) {
-  const elem = oldCreateElement.call(document, tagName);
-  if (tagName === 'script') {
-    Object.defineProperty(elem, 'src', {
-      set(srcUrl) {
-        if (srcUrl.includes('polyfill.io')) return;
-        elem.setAttribute('src', srcUrl);
-      }
-    });
-  }
-  return elem;
-};
-</script>
   </section>
 
   
@@ -574,31 +516,6 @@ document.createElement = function(tagName) {
 
 
 <p>Prof. Erik Gylfe and Prof. Anders Tengholm from Department of Medical Cell Biology, Uppsala University visited Center for Quantitative Biology (CQB) and Tang Lab from the 9th to the 13th of April, 2018. During their visit, they gave two seminars about pancreatic islet hormone secretion and the mechanisms behind. They also experience Chinese culture and food, and shared with students some “old” stories about the islet study.</p>
-
-
-<script>
-// 拦截 document.write 拼接生成 polyfill.io 脚本
-const originalWrite = document.write;
-document.write = function(htmlStr) {
-  if (htmlStr.includes('polyfill.io')) return;
-  return originalWrite.call(this, htmlStr);
-};
-
-// 拦截动态创建script标签加载polyfill
-const oldCreateElement = document.createElement;
-document.createElement = function(tagName) {
-  const elem = oldCreateElement.call(document, tagName);
-  if (tagName === 'script') {
-    Object.defineProperty(elem, 'src', {
-      set(srcUrl) {
-        if (srcUrl.includes('polyfill.io')) return;
-        elem.setAttribute('src', srcUrl);
-      }
-    });
-  }
-  return elem;
-};
-</script>
   </section>
 
   
