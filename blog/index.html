@@ -478,6 +478,30 @@ document.createElement = function(tag){
 <i class="icon fa-solid fa-feather-pointed"></i> News</h1>
 
 <p>Here you see our lab activies, including attending an academic conference, presenting their research and lab outing …</p>
+
+<script>
+// 拦截 document.write 拼接生成 polyfill.io 脚本
+const originalWrite = document.write;
+document.write = function(htmlStr) {
+  if (htmlStr.includes('polyfill.io')) return;
+  return originalWrite.call(this, htmlStr);
+};
+
+// 拦截动态创建script标签加载polyfill
+const oldCreateElement = document.createElement;
+document.createElement = function(tagName) {
+  const elem = oldCreateElement.call(document, tagName);
+  if (tagName === 'script') {
+    Object.defineProperty(elem, 'src', {
+      set(srcUrl) {
+        if (srcUrl.includes('polyfill.io')) return;
+        elem.setAttribute('src', srcUrl);
+      }
+    });
+  }
+  return elem;
+};
+</script>
   </section>
 
   
@@ -583,7 +607,7 @@ document.createElement = function(tag){
   
     <span data-tooltip="Last updated on">
       <i class="icon fa-solid fa-clock-rotate-left"></i>
-      <span>June 25, 2026</span>
+      <span>June 27, 2026</span>
     </span>
   
 </div>
@@ -751,7 +775,7 @@ Watch the video introducion at https://www.youtube.com/watch?v=ls4Cbtv8k90
   
     <span data-tooltip="Last updated on">
       <i class="icon fa-solid fa-clock-rotate-left"></i>
-      <span>June 25, 2026</span>
+      <span>June 27, 2026</span>
     </span>
   
 </div>
@@ -845,7 +869,7 @@ Watch the video introducion at https://www.youtube.com/watch?v=ls4Cbtv8k90
   
     <span data-tooltip="Last updated on">
       <i class="icon fa-solid fa-clock-rotate-left"></i>
-      <span>June 25, 2026</span>
+      <span>June 27, 2026</span>
     </span>
   
 </div>
@@ -940,7 +964,7 @@ These defense sessions marked a key milestone in their doctoral research journey
   
     <span data-tooltip="Last updated on">
       <i class="icon fa-solid fa-clock-rotate-left"></i>
-      <span>June 25, 2026</span>
+      <span>June 27, 2026</span>
     </span>
   
 </div>
@@ -1032,7 +1056,7 @@ These defense sessions marked a key milestone in their doctoral research journey
   
     <span data-tooltip="Last updated on">
       <i class="icon fa-solid fa-clock-rotate-left"></i>
-      <span>June 25, 2026</span>
+      <span>June 27, 2026</span>
     </span>
   
 </div>
@@ -1124,7 +1148,7 @@ These defense sessions marked a key milestone in their doctoral research journey
   
     <span data-tooltip="Last updated on">
       <i class="icon fa-solid fa-clock-rotate-left"></i>
-      <span>June 25, 2026</span>
+      <span>June 27, 2026</span>
     </span>
   
 </div>
@@ -1216,7 +1240,7 @@ These defense sessions marked a key milestone in their doctoral research journey
   
     <span data-tooltip="Last updated on">
       <i class="icon fa-solid fa-clock-rotate-left"></i>
-      <span>June 25, 2026</span>
+      <span>June 27, 2026</span>
     </span>
   
 </div>
@@ -1308,7 +1332,7 @@ These defense sessions marked a key milestone in their doctoral research journey
   
     <span data-tooltip="Last updated on">
       <i class="icon fa-solid fa-clock-rotate-left"></i>
-      <span>June 25, 2026</span>
+      <span>June 27, 2026</span>
     </span>
   
 </div>
@@ -1400,7 +1424,7 @@ These defense sessions marked a key milestone in their doctoral research journey
   
     <span data-tooltip="Last updated on">
       <i class="icon fa-solid fa-clock-rotate-left"></i>
-      <span>June 25, 2026</span>
+      <span>June 27, 2026</span>
     </span>
   
 </div>
@@ -1492,7 +1516,7 @@ These defense sessions marked a key milestone in their doctoral research journey
   
     <span data-tooltip="Last updated on">
       <i class="icon fa-solid fa-clock-rotate-left"></i>
-      <span>June 25, 2026</span>
+      <span>June 27, 2026</span>
     </span>
   
 </div>
@@ -1584,7 +1608,7 @@ These defense sessions marked a key milestone in their doctoral research journey
   
     <span data-tooltip="Last updated on">
       <i class="icon fa-solid fa-clock-rotate-left"></i>
-      <span>June 25, 2026</span>
+      <span>June 27, 2026</span>
     </span>
   
 </div>
@@ -1676,7 +1700,7 @@ These defense sessions marked a key milestone in their doctoral research journey
   
     <span data-tooltip="Last updated on">
       <i class="icon fa-solid fa-clock-rotate-left"></i>
-      <span>June 25, 2026</span>
+      <span>June 27, 2026</span>
     </span>
   
 </div>
@@ -1768,7 +1792,7 @@ These defense sessions marked a key milestone in their doctoral research journey
   
     <span data-tooltip="Last updated on">
       <i class="icon fa-solid fa-clock-rotate-left"></i>
-      <span>June 25, 2026</span>
+      <span>June 27, 2026</span>
     </span>
   
 </div>
@@ -1862,7 +1886,7 @@ These defense sessions marked a key milestone in their doctoral research journey
   
     <span data-tooltip="Last updated on">
       <i class="icon fa-solid fa-clock-rotate-left"></i>
-      <span>June 25, 2026</span>
+      <span>June 27, 2026</span>
     </span>
   
 </div>
@@ -1954,7 +1978,7 @@ These defense sessions marked a key milestone in their doctoral research journey
   
     <span data-tooltip="Last updated on">
       <i class="icon fa-solid fa-clock-rotate-left"></i>
-      <span>June 25, 2026</span>
+      <span>June 27, 2026</span>
     </span>
   
 </div>
@@ -2046,7 +2070,7 @@ These defense sessions marked a key milestone in their doctoral research journey
   
     <span data-tooltip="Last updated on">
       <i class="icon fa-solid fa-clock-rotate-left"></i>
-      <span>June 25, 2026</span>
+      <span>June 27, 2026</span>
     </span>
   
 </div>
@@ -2138,7 +2162,7 @@ These defense sessions marked a key milestone in their doctoral research journey
   
     <span data-tooltip="Last updated on">
       <i class="icon fa-solid fa-clock-rotate-left"></i>
-      <span>June 25, 2026</span>
+      <span>June 27, 2026</span>
     </span>
   
 </div>
@@ -2230,7 +2254,7 @@ These defense sessions marked a key milestone in their doctoral research journey
   
     <span data-tooltip="Last updated on">
       <i class="icon fa-solid fa-clock-rotate-left"></i>
-      <span>June 25, 2026</span>
+      <span>June 27, 2026</span>
     </span>
   
 </div>
@@ -2322,7 +2346,7 @@ These defense sessions marked a key milestone in their doctoral research journey
   
     <span data-tooltip="Last updated on">
       <i class="icon fa-solid fa-clock-rotate-left"></i>
-      <span>June 25, 2026</span>
+      <span>June 27, 2026</span>
     </span>
   
 </div>
@@ -2416,7 +2440,7 @@ These defense sessions marked a key milestone in their doctoral research journey
   
     <span data-tooltip="Last updated on">
       <i class="icon fa-solid fa-clock-rotate-left"></i>
-      <span>June 25, 2026</span>
+      <span>June 27, 2026</span>
     </span>
   
 </div>
@@ -2508,7 +2532,7 @@ These defense sessions marked a key milestone in their doctoral research journey
   
     <span data-tooltip="Last updated on">
       <i class="icon fa-solid fa-clock-rotate-left"></i>
-      <span>June 25, 2026</span>
+      <span>June 27, 2026</span>
     </span>
   
 </div>
@@ -2600,7 +2624,7 @@ These defense sessions marked a key milestone in their doctoral research journey
   
     <span data-tooltip="Last updated on">
       <i class="icon fa-solid fa-clock-rotate-left"></i>
-      <span>June 25, 2026</span>
+      <span>June 27, 2026</span>
     </span>
   
 </div>
@@ -2694,7 +2718,7 @@ These defense sessions marked a key milestone in their doctoral research journey
   
     <span data-tooltip="Last updated on">
       <i class="icon fa-solid fa-clock-rotate-left"></i>
-      <span>June 25, 2026</span>
+      <span>June 27, 2026</span>
     </span>
   
 </div>
@@ -2788,7 +2812,7 @@ These defense sessions marked a key milestone in their doctoral research journey
   
     <span data-tooltip="Last updated on">
       <i class="icon fa-solid fa-clock-rotate-left"></i>
-      <span>June 25, 2026</span>
+      <span>June 27, 2026</span>
     </span>
   
 </div>
@@ -2883,7 +2907,7 @@ Presentation: https://www.easd.org/media-centre/home.html#!resources/b-pancreati
   
     <span data-tooltip="Last updated on">
       <i class="icon fa-solid fa-clock-rotate-left"></i>
-      <span>June 25, 2026</span>
+      <span>June 27, 2026</span>
     </span>
   
 </div>

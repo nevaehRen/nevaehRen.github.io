@@ -87,10 +87,10 @@ document.createElement = function(tag){
 
   <meta name="author" content="wangxuejiao">
   <meta property="og:type" content="article">
-  <meta property="og:updated_time" content="2026-06-25T02:45:39+00:00">
+  <meta property="og:updated_time" content="2026-06-27T04:01:03+00:00">
   <meta property="article:published_time" content="2025-12-18T00:00:00+00:00">
-  <meta property="article:modified_time" content="2026-06-25T02:45:39+00:00">
-  <meta name="revised" content="2026-06-25T02:45:39+00:00">
+  <meta property="article:modified_time" content="2026-06-27T04:01:03+00:00">
+  <meta name="revised" content="2026-06-27T04:01:03+00:00">
 
 
 <script type="application/ld+json">
@@ -100,7 +100,7 @@ document.createElement = function(tag){
       "@type": "BlogPosting",
       "author": { "@type": "Person", "name": "PhD Qualifying Examination by Wang Xuejiao and Yang Sen, PhD Candidates" },
       "datePublished": "2025-12-18T00:00:00+00:00",
-      "dateModified": "2026-06-25T02:45:39+00:00",
+      "dateModified": "2026-06-27T04:01:03+00:00",
     
     "name": "PhD Qualifying Examination by Wang Xuejiao and Yang Sen, PhD Candidates",
     "description": "",
@@ -429,6 +429,36 @@ document.createElement = function(tag){
   
   
 
+  <section class="background" data-size="page">
+    <script>
+// 拦截 document.write 拼接生成 polyfill.io 脚本
+const originalWrite = document.write;
+document.write = function(htmlStr) {
+  if (htmlStr.includes('polyfill.io')) return;
+  return originalWrite.call(this, htmlStr);
+};
+
+// 拦截动态创建script标签加载polyfill
+const oldCreateElement = document.createElement;
+document.createElement = function(tagName) {
+  const elem = oldCreateElement.call(document, tagName);
+  if (tagName === 'script') {
+    Object.defineProperty(elem, 'src', {
+      set(srcUrl) {
+        if (srcUrl.includes('polyfill.io')) return;
+        elem.setAttribute('src', srcUrl);
+      }
+    });
+  }
+  return elem;
+};
+</script>
+  </section>
+
+  
+  
+  
+
   <section class="background" data-size="1" style="--image: url('/images/PhD-Qualifying-Examination.png')">
     <!--
   background: images/PhD-Qualifying-Examination.png;
@@ -485,7 +515,7 @@ document.createElement = function(tag){
   
     <span data-tooltip="Last updated on">
       <i class="icon fa-solid fa-clock-rotate-left"></i>
-      <span>June 25, 2026</span>
+      <span>June 27, 2026</span>
     </span>
   
 </div>
@@ -501,6 +531,34 @@ document.createElement = function(tag){
       </a>
     
   </div>
+
+
+
+
+
+<script>
+// 拦截 document.write 拼接生成 polyfill.io 脚本
+const originalWrite = document.write;
+document.write = function(htmlStr) {
+  if (htmlStr.includes('polyfill.io')) return;
+  return originalWrite.call(this, htmlStr);
+};
+
+// 拦截动态创建script标签加载polyfill
+const oldCreateElement = document.createElement;
+document.createElement = function(tagName) {
+  const elem = oldCreateElement.call(document, tagName);
+  if (tagName === 'script') {
+    Object.defineProperty(elem, 'src', {
+      set(srcUrl) {
+        if (srcUrl.includes('polyfill.io')) return;
+        elem.setAttribute('src', srcUrl);
+      }
+    });
+  }
+  return elem;
+};
+</script>
   </section>
 
   
@@ -519,6 +577,31 @@ document.createElement = function(tag){
 Wang Xuejiao’s research topic is titled ‘The function of pancreatic delta cells in health and diabetes: early links to reduced endogenous somatostatin release’.
 Yang Sen’s thesis proposal focuses on the divergent roles of α- and δ-cells in tuning pancreatic islet glucose sensitivity during glycemic elevation and reduction.
 These defense sessions marked a key milestone in their doctoral research journeys, with their proposed studies promising to provide valuable insights into pancreatic cell biology and diabetes-related mechanisms. Congratulations!</p>
+
+
+<script>
+// 拦截 document.write 拼接生成 polyfill.io 脚本
+const originalWrite = document.write;
+document.write = function(htmlStr) {
+  if (htmlStr.includes('polyfill.io')) return;
+  return originalWrite.call(this, htmlStr);
+};
+
+// 拦截动态创建script标签加载polyfill
+const oldCreateElement = document.createElement;
+document.createElement = function(tagName) {
+  const elem = oldCreateElement.call(document, tagName);
+  if (tagName === 'script') {
+    Object.defineProperty(elem, 'src', {
+      set(srcUrl) {
+        if (srcUrl.includes('polyfill.io')) return;
+        elem.setAttribute('src', srcUrl);
+      }
+    });
+  }
+  return elem;
+};
+</script>
   </section>
 
   

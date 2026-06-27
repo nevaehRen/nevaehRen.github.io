@@ -87,10 +87,10 @@ document.createElement = function(tag){
 
   <meta name="author" content="renhuixia">
   <meta property="og:type" content="article">
-  <meta property="og:updated_time" content="2026-06-25T02:45:39+00:00">
+  <meta property="og:updated_time" content="2026-06-27T04:01:03+00:00">
   <meta property="article:published_time" content="2024-04-20T00:00:00+00:00">
-  <meta property="article:modified_time" content="2026-06-25T02:45:39+00:00">
-  <meta name="revised" content="2026-06-25T02:45:39+00:00">
+  <meta property="article:modified_time" content="2026-06-27T04:01:03+00:00">
+  <meta name="revised" content="2026-06-27T04:01:03+00:00">
 
 
 <script type="application/ld+json">
@@ -100,7 +100,7 @@ document.createElement = function(tag){
       "@type": "BlogPosting",
       "author": { "@type": "Person", "name": "Prof. Patrick Gilon visiting" },
       "datePublished": "2024-04-20T00:00:00+00:00",
-      "dateModified": "2026-06-25T02:45:39+00:00",
+      "dateModified": "2026-06-27T04:01:03+00:00",
     
     "name": "Prof. Patrick Gilon visiting",
     "description": "",
@@ -429,6 +429,36 @@ document.createElement = function(tag){
   
   
 
+  <section class="background" data-size="page">
+    <script>
+// 拦截 document.write 拼接生成 polyfill.io 脚本
+const originalWrite = document.write;
+document.write = function(htmlStr) {
+  if (htmlStr.includes('polyfill.io')) return;
+  return originalWrite.call(this, htmlStr);
+};
+
+// 拦截动态创建script标签加载polyfill
+const oldCreateElement = document.createElement;
+document.createElement = function(tagName) {
+  const elem = oldCreateElement.call(document, tagName);
+  if (tagName === 'script') {
+    Object.defineProperty(elem, 'src', {
+      set(srcUrl) {
+        if (srcUrl.includes('polyfill.io')) return;
+        elem.setAttribute('src', srcUrl);
+      }
+    });
+  }
+  return elem;
+};
+</script>
+  </section>
+
+  
+  
+  
+
   <section class="background" data-size="1" style="--image: url('/images/Patrick.png')">
     <!--
   background: images/Patrick.png;
@@ -485,7 +515,7 @@ document.createElement = function(tag){
   
     <span data-tooltip="Last updated on">
       <i class="icon fa-solid fa-clock-rotate-left"></i>
-      <span>June 25, 2026</span>
+      <span>June 27, 2026</span>
     </span>
   
 </div>
@@ -501,6 +531,34 @@ document.createElement = function(tag){
       </a>
     
   </div>
+
+
+
+
+
+<script>
+// 拦截 document.write 拼接生成 polyfill.io 脚本
+const originalWrite = document.write;
+document.write = function(htmlStr) {
+  if (htmlStr.includes('polyfill.io')) return;
+  return originalWrite.call(this, htmlStr);
+};
+
+// 拦截动态创建script标签加载polyfill
+const oldCreateElement = document.createElement;
+document.createElement = function(tagName) {
+  const elem = oldCreateElement.call(document, tagName);
+  if (tagName === 'script') {
+    Object.defineProperty(elem, 'src', {
+      set(srcUrl) {
+        if (srcUrl.includes('polyfill.io')) return;
+        elem.setAttribute('src', srcUrl);
+      }
+    });
+  }
+  return elem;
+};
+</script>
   </section>
 
   
@@ -516,6 +574,31 @@ document.createElement = function(tag){
 
 
 <p>On April 19th, 2024, Prof. Patrick Gilon from Biomedical Sciences at the Catholic University of Louvain (UCL) visit Chen Lab and Tang Lab at Peking University. During his visit, he gave a seminar about “Direct and indirect mechanisms of control of glucagon secretion” and had lunch with students. He is the Director of Research of the Fonds National de la Recherche Scientifique (Belgium). His main interests are to study stimulation secretion-coupling of insulin- and glucagon-secreting cells and interactions between the different cell types of the endocrine pancreas in normal and physiopathological conditions linked to diabetes. One major part of his research was to study the mechanisms of control of the free Ca2+ concentration in various subcellular compartments. He has published approximately 80 articles on these topics.</p>
+
+
+<script>
+// 拦截 document.write 拼接生成 polyfill.io 脚本
+const originalWrite = document.write;
+document.write = function(htmlStr) {
+  if (htmlStr.includes('polyfill.io')) return;
+  return originalWrite.call(this, htmlStr);
+};
+
+// 拦截动态创建script标签加载polyfill
+const oldCreateElement = document.createElement;
+document.createElement = function(tagName) {
+  const elem = oldCreateElement.call(document, tagName);
+  if (tagName === 'script') {
+    Object.defineProperty(elem, 'src', {
+      set(srcUrl) {
+        if (srcUrl.includes('polyfill.io')) return;
+        elem.setAttribute('src', srcUrl);
+      }
+    });
+  }
+  return elem;
+};
+</script>
   </section>
 
   
