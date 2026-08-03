@@ -1,5 +1,5 @@
 ---
-title: Cell Systems: The Minority in Command: Pancreatic Islet δ and α Cells Dictate β Cell Rhythmicity
+title: Cell Systems｜Pancreatic islet oscillation rhythmicity arises from δ and α cell interactions
 image: images/sss.png
 author: renhuixia
 tags: publication
