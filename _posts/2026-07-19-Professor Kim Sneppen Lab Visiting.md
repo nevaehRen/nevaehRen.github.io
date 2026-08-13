@@ -1,7 +1,7 @@
 ---
 title: Prof. Kim Sneppen visiting Lab
 image: images/kim.jpg
-author: zhouchunmei
+author: lidan
 tags: lab
 ---
 
