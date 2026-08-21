@@ -7,7 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-wrench" %}Projects
 
-We study how pancreatic islet cell-to-cell interactions shape oscillatory Ca$^{2+}$ activity, balancing hormone secretion and maintaining blood glucose homeostasis by employing microfluidic experiments and mathematical modeling.
+We study the architecture and physiological functions of pancreatic islets, including calcium signaling and the secretion patterns of hormones (insulin, glucagon, and somatostatin). The lab focuses on how these physiological processes respond to metabolic stress in the context of metabolic disorders, such as diabetes and obesity. By employing a multidisciplinary approach that integrates biological experiments with mathematical modeling, the lab aims to advance the field of islet physiology and provide novel insights for developing therapeutic strategies.
 
 {% include tags.html tags="publication, resource, website" %}
 
