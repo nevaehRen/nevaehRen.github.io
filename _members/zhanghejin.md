@@ -1,7 +1,7 @@
 ---
 name: Hejin Zhang
 image: images/zhanghejin.jpg
-role: Undergraduate
+role: undergrad
 group: alum
 links:
   github: john-doe
