@@ -1,0 +1,11 @@
+---
+title: 2026 Capital International Medical Innovation Forum
+image: images/cimr2026.jpg
+author: liruijie
+tags: conference
+---
+September 19–20 – The Capital International Medical Innovation Forum and the 2026 Annual Academic Conference of the Capital Medical Sciences Innovation Center were held in Beijing, China, from September 19 to 20, 2026. Bringing together approximately 650 experts and scholars from renowned research institutions, universities, and hospitals worldwide, alongside researchers and graduate students from the Innovation Center, the two-day conference provided a dynamic platform for academic exchange and scientific discussion. Participants explored cutting-edge advances across a wide range of biomedical fields, including regenerative medicine, cancer research, molecular and cellular therapies, immunology, medical physiology, and biomedical artificial intelligence.
+The conference featured six thematic forums comprising 41 high-level academic presentations, addressing key frontiers in medical science and innovation. Topics included regenerative medicine, cancer research and the development of novel therapeutic strategies, immunology, target identification and validation for therapeutic drug development, medical physiology, and biomedical artificial intelligence, highlighting emerging opportunities and challenges in biomedical research and clinical translation.
+During the conference, Dr. Huixia Ren delivered an academic presentation entitled Global Synchronization of Pancreatic Islets Maintains Fasting Glycemia In Vivo, exploring the role of coordinated pancreatic islet activity in maintaining fasting blood glucose homeostasis in vivo.
+In addition to the academic presentation, every member of Ren Lab presented a research poster and actively engaged in scientific discussions and exchanges with fellow researchers at the Innovation Center, sharing research findings and fostering potential collaborations.
+Beyond the scientific program, Ren Lab also demonstrated its strong team spirit during the conference’s fun tug-of-war competition. Joining forces with Zhang Wei Lab, the team achieved an impressive second-place finish, celebrating both teamwork and camaraderie within the research community.

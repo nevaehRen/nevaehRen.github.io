@@ -1,0 +1,9 @@
+---
+title: 2026 Rachmiel Levine–Arthur Riggs Diabetes Research Symposium
+image: images/Rachmiel.jpg
+author: zhouchunmei
+tags: conference
+---
+
+The 2026 Rachmiel Levine–Arthur Riggs Diabetes Research Symposium, organized by City of Hope, took place at The Westin Pasadena in Pasadena, California, USA, from October 16 to 19, 2026. The symposium brought together researchers and clinicians to discuss advances in diabetes research and emerging therapeutic strategies. The scientific program featured twelve thematic sessions covering cell therapy management, economics, and the regulatory landscape of cell replacement for type 1 diabetes; gene-edited stem cells and emerging approaches to cell protection; technologies, omics, and metabolic imaging for targeted drug delivery in vivo; circadian rhythms in stem cell programming and islet function; next-generation immunotherapies; CAR regulatory T cells and β-cell-targeting regulatory T cells; interactions between immune cells and β cells; intra- and extra-islet communication; β-cell regenerative therapies; β-cell mass imaging; transcriptomics in type 1 diabetes; and spatial and metabolic imaging in type 1 diabetes. 
+Dr. Huixia Ren and Dr. Chunmei Zhou attended the symposium and presented their research on pancreatic islet function and glucose homeostasis. During the session on intra- and extra-islet communication, Dr. Ren delivered an oral presentation entitled “Global Synchronization of Pancreatic Islets Maintains Fasting Glycemia In Vivo,” which generated considerable interest among diabetes researchers in attendance. Dr. Zhou presented a poster entitled “Paracrine Temporal Dynamics Shape First-phase Insulin Secretion within Pancreatic Islets” and was honored with the 2026 Levine–Riggs Symposium Scientific Achievement Award. Following the symposium, Dr. Ren and Dr. Zhou visited City of Hope, the symposium’s host institution.
